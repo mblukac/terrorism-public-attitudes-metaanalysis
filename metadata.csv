@@ -1,0 +1,1726 @@
+Fisher,Variance_F,SE_F,ID_R,Year,country,design,terrortype,outcome
+-0.060072,0.001307,0.036152,10001,2004,United States,Longitudinal,Islamist,Outgroup Hostility
+-0.030009,0.001307,0.036152,10001,2004,United States,Longitudinal,Islamist,Outgroup Hostility
+-0.070115,0.001307,0.036152,10001,2004,United States,Longitudinal,Islamist,Outgroup Hostility
+0.100335,0.000493,0.022204,10002,2017,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.161387,0.00241,0.049092,10003,2017,United States,Correlation,No Ideology,Conservatism
+0.080171,0.00241,0.049092,10003,2017,United States,Correlation,No Ideology,Conservatism
+0.223656,0.002451,0.049508,10003,2017,United States,Correlation,No Ideology,Conservatism
+0.01,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Conservatism
+0.030009,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Conservatism
+-0.050042,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Conservatism
+0.120581,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Conservatism
+0.01,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Conservatism
+-0.030009,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Rally Effects
+0.15114,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Rally Effects
+0.050042,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Rally Effects
+0.13074,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Rally Effects
+0.020003,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Rally Effects
+0.050042,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Outgroup Hostility
+-0.171667,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Outgroup Hostility
+-0.040021,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Outgroup Hostility
+0.070115,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Outgroup Hostility
+0.030009,0.003401,0.058318,10004,2012,United States,Correlation,Islamist,Outgroup Hostility
+0.233916,0.016393,0.128035,10005,2004,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.072366,0.017544,0.132454,10005,2004,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.195675,0.016949,0.130188,10005,2004,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.140881,0.016949,0.130188,10005,2004,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.210587,0.013889,0.117852,10005,2004,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.194489,0.014925,0.122168,10005,2004,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.459897,0.000898,0.029967,10006,1989,Israel,Correlation,Islamist,Conservatism
+0.120581,0.000898,0.029967,10006,1989,Israel,Correlation,Islamist,Conservatism
+0.029308,0.000873,0.029547,10007,2016,Other: Western,Correlation,Islamist,Rally Effects
+-0.0108,0.000769,0.027731,10007,2016,Other: Western,Correlation,Extreme Right,Rally Effects
+0.024305,0.000629,0.02508,10007,2016,Other: Western,Correlation,Islamist,Rally Effects
+-0.067402,0.004049,0.063632,10007,2016,Other: Western,Correlation,Islamist,Rally Effects
+0.198665,0.010753,0.103697,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+-0.041877,0.010753,0.103697,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.246018,0.010753,0.103697,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.045164,0.010753,0.103697,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.192337,0.010417,0.102064,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.140926,0.010417,0.102064,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+-0.080171,0.010417,0.102064,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Rally Effects
+0.040021,0.010417,0.102064,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.030009,0.010417,0.102064,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+-0.020003,0.010417,0.102064,10008,2013,Other: Western,(Quasi)Experiment,No Ideology,Rally Effects
+0.058911,0.000564,0.023749,10009,2019,,Correlation,No Ideology,Rally Effects
+-0.000393,0.001076,0.032802,10009,2019,,Correlation,No Ideology,Rally Effects
+0.232082,0.000842,0.029017,10009,2019,,Correlation,No Ideology,Rally Effects
+0.255775,0.00155,0.03937,10009,2019,,Longitudinal,No Ideology,Rally Effects
+0.055119,0.003077,0.055471,10010,2019,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.062044,0.003155,0.056169,10010,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.047859,0.003145,0.05608,10010,2019,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.073442,0.003226,0.056798,10010,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.024583,0.003096,0.055642,10010,2019,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.028805,0.003215,0.056701,10010,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.062674,0.003215,0.056701,10010,2019,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.045021,0.003106,0.055731,10010,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.054147,0.003086,0.055552,10010,2019,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+-0.03714,0.003175,0.056347,10010,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.049429,0.003165,0.056258,10010,2019,Other: Western,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.084798,0.003077,0.055471,10010,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.117383,0.000185,0.013601,10011,2007,Other: Western,Correlation,Islamist,Rally Effects
+-0.211656,0.000185,0.013601,10011,2007,Other: Western,Correlation,Islamist,Conservatism
+-0.211394,0.000185,0.013601,10011,2007,Other: Western,Correlation,Islamist,Conservatism
+0.046086,0.000185,0.013601,10011,2007,Other: Western,Correlation,Islamist,Conservatism
+-0.152526,0.001003,0.03167,10011,2007,Other: Western,Correlation,Islamist,Conservatism
+-0.237605,0.001003,0.03167,10011,2007,Other: Western,Correlation,Islamist,Conservatism
+0.030576,0.001003,0.03167,10011,2007,Other: Western,Correlation,Islamist,Conservatism
+0.069942,0.00277,0.052631,10012,2009,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.035954,0.00277,0.052631,10012,2009,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.023924,0.00277,0.052631,10012,2009,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.206444,0.00277,0.052631,10012,2009,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.070473,0.00277,0.052631,10012,2009,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.076499,0.00277,0.052631,10012,2009,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.234189,0.006803,0.08248,10013,2012,United States,Correlation,Islamist,Conservatism
+0.181983,0.006803,0.08248,10013,2012,United States,Correlation,Islamist,Conservatism
+0.298566,0.006803,0.08248,10013,2012,United States,Correlation,Islamist,Conservatism
+0.320545,0.006803,0.08248,10013,2012,United States,Correlation,Islamist,Rally Effects
+0.342828,0.006803,0.08248,10013,2012,United States,Correlation,Islamist,Outgroup Hostility
+0.376886,0.006803,0.08248,10013,2012,United States,Correlation,Islamist,Conservatism
+0.266108,0.006803,0.08248,10013,2012,United States,Correlation,Islamist,Conservatism
+0.139558,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.043463,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.097917,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.058771,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.052607,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.146987,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.068714,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.091413,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.11937,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.124541,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.194569,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.236038,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+-0.024842,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+-0.006385,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.075957,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.089009,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.049592,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.127739,0.006211,0.07881,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.104588,0.006536,0.080846,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.053333,0.006536,0.080846,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.04466,0.006536,0.080846,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.100245,0.006536,0.080846,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.096863,0.006536,0.080846,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.076773,0.006536,0.080846,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.109756,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.019039,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.041639,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+-0.064109,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+-0.502216,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.099066,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.253304,0.006289,0.079303,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.167657,0.006289,0.079303,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.091632,0.006289,0.079303,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.150553,0.006289,0.079303,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.107019,0.006289,0.079303,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.184431,0.006289,0.079303,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.065314,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+-0.013886,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+-0.06887,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.00621,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+-0.084042,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+-0.016255,0.006369,0.079806,10014,2001,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.388423,0.00237,0.048683,10015,2010,United States,Correlation,No Ideology,Conservatism
+0.036791,0.002959,0.054397,10016,2009,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.149095,0.001096,0.033106,10017,2012,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.178285,0.001096,0.033106,10017,2012,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.050826,0.010526,0.102596,10018,2015,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.235618,0.010526,0.102596,10018,2015,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.191721,0.010526,0.102596,10018,2015,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.30952,0.006944,0.083331,10018,2015,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.192337,0.006944,0.083331,10018,2015,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.276864,0.003367,0.058026,10019,2016,United States,Correlation,No Ideology,Conservatism
+0.13074,0.003367,0.058026,10019,2016,United States,Correlation,No Ideology,Rally Effects
+0.140926,0.003367,0.058026,10019,2016,United States,Correlation,No Ideology,Conservatism
+0.30952,0.003367,0.058026,10019,2016,United States,Correlation,No Ideology,Conservatism
+-0.047854,0.003367,0.058026,10019,2016,United States,(Quasi)Experiment,Islamist,Conservatism
+0.038878,0.003367,0.058026,10019,2016,United States,(Quasi)Experiment,Islamist,Rally Effects
+-0.03499,0.003367,0.058026,10019,2016,United States,(Quasi)Experiment,Islamist,Conservatism
+-0.013106,0.003367,0.058026,10019,2016,United States,(Quasi)Experiment,Islamist,Conservatism
+0.07016,0.003367,0.058026,10019,2016,United States,(Quasi)Experiment,Islamist,Conservatism
+-0.045872,0.003367,0.058026,10019,2016,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.086592,0.003367,0.058026,10019,2016,United States,(Quasi)Experiment,Islamist,Conservatism
+0,0.003367,0.058026,10019,2016,United States,(Quasi)Experiment,Islamist,Conservatism
+0.163979,0.001255,0.035426,10020,2018,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.114763,0.001256,0.03544,10020,2018,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.164345,0.001245,0.035285,10020,2018,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.130334,0.001241,0.035228,10020,2018,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.031921,0.001321,0.036346,10020,2018,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.047235,0.001287,0.035875,10020,2018,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.213171,0.02381,0.154305,10021,2006,United States,Longitudinal,Islamist,Conservatism
+0.234189,0.02381,0.154305,10021,2006,United States,Longitudinal,Islamist,Conservatism
+0.435611,0.02381,0.154305,10021,2006,United States,Longitudinal,Islamist,Conservatism
+0.376886,0.02381,0.154305,10021,2006,United States,Longitudinal,Islamist,Conservatism
+0.072663,0.003663,0.060523,10022,2007,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.168358,0.003663,0.060523,10022,2007,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.270247,0.003663,0.060523,10022,2007,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.007553,0.000674,0.025962,10023,2018,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.020499,0.000787,0.028054,10023,2018,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.293759,0.002,0.044721,10024,2009,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.109682,0.001572,0.039648,10024,2009,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.282389,0.001263,0.035539,10024,2009,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.452881,0.002717,0.052125,10025,2012,United States,Correlation,No Ideology,Conservatism
+0.408618,0.002717,0.052125,10025,2012,United States,Correlation,No Ideology,Conservatism
+0.481212,0.002717,0.052125,10025,2012,United States,Correlation,No Ideology,Outgroup Hostility
+0.452881,0.002717,0.052125,10025,2012,United States,Correlation,No Ideology,Outgroup Hostility
+0.32745,0.002717,0.052125,10025,2012,United States,Correlation,No Ideology,Conservatism
+0.30952,0.002717,0.052125,10025,2012,United States,Correlation,No Ideology,Conservatism
+0.887184,0.005263,0.072547,10026,2018,United States,Correlation,Islamist,Outgroup Hostility
+0.928727,0.005263,0.072547,10026,2018,United States,Correlation,Islamist,Outgroup Hostility
+0.829114,0.005263,0.072547,10026,2018,United States,Correlation,Islamist,Outgroup Hostility
+0.907645,0.005263,0.072547,10026,2018,United States,Correlation,Islamist,Outgroup Hostility
+0.632833,0.005263,0.072547,10026,2018,United States,Correlation,Islamist,Outgroup Hostility
+0.354093,0.005348,0.07313,10027,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.758174,0.005348,0.07313,10027,2009,Israel,Correlation,Islamist,Conservatism
+0.050042,0.002146,0.046325,10028,2009,Israel,Longitudinal,No Ideology,Outgroup Hostility
+0.090244,0.002146,0.046325,10028,2009,Israel,Longitudinal,No Ideology,Outgroup Hostility
+0.181983,0.002146,0.046325,10028,2009,Israel,Longitudinal,No Ideology,Conservatism
+0.069628,0.004405,0.06637,10029,2016,Israel,(Quasi)Experiment,Other,Outgroup Hostility
+0.040021,0.001285,0.035847,10030,2017,Israel,Correlation,Islamist,Conservatism
+-0.01,0.000838,0.028948,10030,2017,Israel,Correlation,Other,Conservatism
+-0.01,0.001285,0.035847,10030,2017,Israel,Correlation,Islamist,Conservatism
+-0.040021,0.000838,0.028948,10030,2017,Israel,Correlation,Other,Conservatism
+0.080171,0.001285,0.035847,10030,2017,Israel,Correlation,Islamist,Conservatism
+0.060072,0.000838,0.028948,10030,2017,Israel,Correlation,Other,Conservatism
+0.100335,0.001285,0.035847,10030,2017,Israel,Correlation,Islamist,Conservatism
+-0.030009,0.000838,0.028948,10030,2017,Israel,Correlation,Other,Conservatism
+0.110447,0.001285,0.035847,10030,2017,Israel,Correlation,Islamist,Conservatism
+-0.090244,0.000838,0.028948,10030,2017,Israel,Correlation,Other,Conservatism
+0.060072,0.001285,0.035847,10030,2017,Israel,Correlation,Islamist,Conservatism
+0,0.000838,0.028948,10030,2017,Israel,Correlation,Other,Conservatism
+0.342889,0.028571,0.16903,10031,2018,Israel,(Quasi)Experiment,Other,Conservatism
+0.351685,0.023256,0.152499,10031,2018,Israel,(Quasi)Experiment,Other,Conservatism
+-0.079541,0.023256,0.152499,10031,2018,Israel,(Quasi)Experiment,Other,Conservatism
+0.355924,0.023256,0.152499,10031,2018,Israel,(Quasi)Experiment,Other,Conservatism
+-0.120392,0.023256,0.152499,10031,2018,Israel,(Quasi)Experiment,Other,Conservatism
+0.149676,0.006711,0.081921,10031,2018,Israel,Correlation,Other,Conservatism
+-0.037275,0.001164,0.034117,10031,2018,Israel,Correlation,Other,Conservatism
+-0.062802,0.001218,0.0349,10031,2018,Israel,Correlation,Other,Conservatism
+-0.125008,0.001304,0.036111,10031,2018,Israel,Correlation,Other,Conservatism
+0.01,0.001866,0.043197,10031,2018,Israel,Correlation,Other,Conservatism
+0.080171,0.003125,0.055902,10031,2018,Israel,Correlation,Other,Conservatism
+0.050042,0.001965,0.044328,10031,2018,Israel,Correlation,Other,Conservatism
+0.091252,0.003236,0.056886,10031,2018,Israel,Correlation,Other,Conservatism
+0.080171,0.002123,0.046076,10031,2018,Israel,Correlation,Other,Conservatism
+0.187155,0.003413,0.058421,10031,2018,Israel,Correlation,Other,Conservatism
+0.081178,0.001866,0.043197,10031,2018,Israel,Correlation,Other,Conservatism
+0.155235,0.003125,0.055902,10031,2018,Israel,Correlation,Other,Conservatism
+0.090244,0.001965,0.044328,10031,2018,Israel,Correlation,Other,Conservatism
+0.225759,0.003236,0.056886,10031,2018,Israel,Correlation,Other,Conservatism
+0.140926,0.002123,0.046076,10031,2018,Israel,Correlation,Other,Conservatism
+0.127689,0.003413,0.058421,10031,2018,Israel,Correlation,Other,Conservatism
+0.084526,0.002398,0.048969,10032,2018,Israel,Longitudinal,Other,Conservatism
+0.234189,0.0125,0.111803,10033,2019,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.244774,0.026316,0.162222,10033,2019,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.56273,0.001996,0.044677,10034,2008,Israel,Correlation,No Ideology,Outgroup Hostility
+0.693147,0.001996,0.044677,10034,2008,Israel,Correlation,No Ideology,Outgroup Hostility
+0.354093,0.001996,0.044677,10034,2008,Israel,Correlation,No Ideology,Conservatism
+0.51007,0.001996,0.044677,10034,2008,Israel,Correlation,No Ideology,Conservatism
+0.182168,0.000552,0.023495,10035,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.069255,0.000552,0.023495,10035,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.119459,6e-04,0.024495,10035,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.034918,6e-04,0.024495,10035,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.080171,0.000496,0.022271,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.020003,0.000492,0.022181,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.100335,0.000528,0.022978,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.077153,0.00052,0.022804,10036,2019,United States,Correlation,No Ideology,Outgroup Hostility
+0.100335,0.000222,0.0149,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.185085,0.000189,0.013748,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.107411,0.000188,0.013711,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.160361,0.000197,0.014036,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.169608,0.000191,0.01382,10036,2019,United States,Correlation,No Ideology,Outgroup Hostility
+0.133793,0.000278,0.016673,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.09327,0.000279,0.016703,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.064088,0.000282,0.016793,10036,2019,United States,Correlation,No Ideology,Conservatism
+0.121596,0.000282,0.016793,10036,2019,United States,Correlation,No Ideology,Outgroup Hostility
+0.025459,0.001441,0.037961,10037,2018,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.031285,0.000205,0.014318,10037,2018,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.058214,0.000978,0.031273,10037,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.041556,3.8e-05,0.006164,10037,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.009323,0.000978,0.031273,10037,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.111231,3.8e-05,0.006164,10037,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.244774,0.003509,0.059237,10038,2014,,Correlation,Other,Outgroup Hostility
+0.100335,0.002994,0.054717,10038,2014,,Correlation,Other,Outgroup Hostility
+0.234189,0.003509,0.059237,10038,2014,,Correlation,Other,Rally Effects
+0.110447,0.002994,0.054717,10038,2014,,Correlation,Other,Rally Effects
+0.181983,0.004608,0.067882,10039,2020,United States,Correlation,Islamist,Outgroup Hostility
+0.276864,0.004608,0.067882,10039,2020,United States,Correlation,Islamist,Conservatism
+0.030009,0.004608,0.067882,10039,2020,United States,Correlation,Islamist,Conservatism
+0.213171,0.004608,0.067882,10039,2020,United States,Correlation,Islamist,Rally Effects
+0.120581,0.004608,0.067882,10039,2020,United States,Correlation,Islamist,Rally Effects
+-0.020003,0.004608,0.067882,10039,2020,United States,Correlation,Islamist,Rally Effects
+0.213171,0.004405,0.06637,10039,2020,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.223656,0.004405,0.06637,10039,2020,Other: Western,Correlation,Islamist,Conservatism
+0.213171,0.004405,0.06637,10039,2020,Other: Western,Correlation,Islamist,Conservatism
+0.15114,0.004405,0.06637,10039,2020,Other: Western,Correlation,Islamist,Rally Effects
+0.320545,0.004405,0.06637,10039,2020,Other: Western,Correlation,Islamist,Rally Effects
+-0.171667,0.004405,0.06637,10039,2020,Other: Western,Correlation,Islamist,Rally Effects
+0.100335,0.006757,0.082201,10039,2020,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.070115,0.006757,0.082201,10039,2020,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.320545,0.006757,0.082201,10039,2020,Other: Western,Correlation,Islamist,Conservatism
+0.030009,0.006757,0.082201,10039,2020,Other: Western,Correlation,Islamist,Conservatism
+0.110447,0.006757,0.082201,10039,2020,Other: Western,Correlation,Islamist,Rally Effects
+0.181983,0.006757,0.082201,10039,2020,Other: Western,Correlation,Islamist,Rally Effects
+0.020003,0.006757,0.082201,10039,2020,Other: Western,Correlation,Islamist,Rally Effects
+-0.01,0.005556,0.074539,10039,2020,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.01,0.005556,0.074539,10039,2020,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.140926,0.005556,0.074539,10039,2020,Other: Western,Correlation,Islamist,Conservatism
+0.266108,0.005556,0.074539,10039,2020,Other: Western,Correlation,Islamist,Conservatism
+0.070115,0.005556,0.074539,10039,2020,Other: Western,Correlation,Islamist,Rally Effects
+-0.030009,0.005556,0.074539,10039,2020,Other: Western,Correlation,Islamist,Rally Effects
+0,0.005556,0.074539,10039,2020,Other: Western,Correlation,Islamist,Rally Effects
+0.4847,0.001709,0.04134,10040,2008,United States,Correlation,Islamist,Conservatism
+0.388423,0.001709,0.04134,10040,2008,United States,Correlation,Islamist,Conservatism
+0.192337,0.001709,0.04134,10040,2008,United States,Correlation,Islamist,Rally Effects
+0.161387,0.001709,0.04134,10040,2008,United States,Correlation,Islamist,Conservatism
+0.040021,0.001709,0.04134,10040,2008,United States,Correlation,Islamist,Conservatism
+0.13074,0.001709,0.04134,10040,2008,United States,Correlation,Islamist,Rally Effects
+0.127751,0.005848,0.076472,10041,2015,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.212654,0.005848,0.076472,10041,2015,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.070115,0.004717,0.06868,10042,2018,Other: Western,Correlation,Islamist,Conservatism
+0.040021,0.004717,0.06868,10042,2018,Other: Western,Correlation,Islamist,Conservatism
+-0.050042,0.004717,0.06868,10042,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.15114,0.004717,0.06868,10042,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.110447,0.004717,0.06868,10042,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.01,0.002151,0.046379,10042,2018,Other: Western,Correlation,Islamist,Conservatism
+0.070115,0.002151,0.046379,10042,2018,Other: Western,Correlation,Islamist,Conservatism
+0.030009,0.002151,0.046379,10042,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.060072,0.002151,0.046379,10042,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.129916,0.00211,0.045935,10042,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.1347,0.00211,0.045935,10042,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.105957,0.00211,0.045935,10042,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.129916,0.00211,0.045935,10042,2018,Other: Western,Correlation,Islamist,Conservatism
+0.161387,0.003676,0.06063,10043,2005,Other: Western,Correlation,No Ideology,Conservatism
+0.15114,0.003676,0.06063,10043,2005,Other: Western,Correlation,No Ideology,Conservatism
+0.171667,0.003676,0.06063,10043,2005,Other: Western,Correlation,No Ideology,Conservatism
+0.070115,0.003676,0.06063,10043,2005,Other: Western,Correlation,No Ideology,Conservatism
+0.13074,0.003676,0.06063,10043,2005,Other: Western,Correlation,No Ideology,Conservatism
+0.117538,0.001838,0.042872,10044,2005,Other: Western,Correlation,No Ideology,Conservatism
+0.150118,0.001835,0.042837,10044,2005,Other: Western,Correlation,No Ideology,Conservatism
+0.212125,0.001832,0.042802,10044,2005,Other: Western,Correlation,No Ideology,Conservatism
+0.339108,0.008475,0.09206,10045,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.137813,0.009709,0.098534,10045,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.185151,0.008475,0.09206,10045,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.066267,0.009709,0.098534,10045,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.056522,0.008475,0.09206,10045,2016,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.535835,0.009709,0.098534,10045,2016,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.354093,0.000745,0.027295,10046,2007,Other: Western,Correlation,Islamist,Rally Effects
+-0.140926,0.004367,0.066083,10046,2007,Other: Western,Correlation,Islamist,Rally Effects
+0.174969,0.000838,0.028948,10046,2007,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.141899,0.001686,0.041061,10047,2018,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.457446,0.003356,0.057931,10048,2004,United States,Correlation,Islamist,Outgroup Hostility
+0.298566,0.003356,0.057931,10048,2004,United States,Correlation,Islamist,Outgroup Hostility
+0.320545,0.003356,0.057931,10048,2004,United States,Correlation,Islamist,Rally Effects
+0.628473,0.00578,0.076026,10049,2009,United States,Correlation,Islamist,Conservatism
+0.396558,0.00578,0.076026,10049,2009,United States,Correlation,Islamist,Conservatism
+0.304034,0.00578,0.076026,10049,2009,United States,Correlation,Islamist,Conservatism
+0.245836,0.00578,0.076026,10049,2009,United States,Correlation,Islamist,Conservatism
+0.450123,0.00578,0.076026,10049,2009,United States,Correlation,Islamist,Conservatism
+0.294204,0.00578,0.076026,10049,2009,United States,Correlation,Islamist,Conservatism
+0.213171,0.007519,0.086712,10050,2005,United States,Correlation,No Ideology,Conservatism
+0.01,0.007519,0.086712,10050,2005,United States,Correlation,No Ideology,Conservatism
+0.234189,0.007519,0.086712,10050,2005,United States,Correlation,No Ideology,Conservatism
+0.202733,0.007519,0.086712,10050,2005,United States,Correlation,No Ideology,Rally Effects
+0.202733,0.007519,0.086712,10050,2005,United States,Correlation,No Ideology,Conservatism
+0.060072,0.007519,0.086712,10050,2005,United States,Correlation,No Ideology,Conservatism
+0.177833,0.005181,0.071979,10051,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.119051,0.003367,0.058026,10051,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.060602,0.02439,0.156173,10052,2009,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.059097,0.018868,0.137361,10052,2009,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.205272,0.016667,0.129101,10052,2009,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.131296,0.013514,0.11625,10052,2009,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.266108,0.010753,0.103697,10052,2009,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.240238,0.008547,0.09245,10053,2008,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.223656,0.000727,0.026963,10054,2007,United States,Correlation,Islamist,Conservatism
+0.040021,0.000928,0.030463,10054,2007,United States,Correlation,No Ideology,Conservatism
+0.006317,0.006211,0.07881,10055,2011,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.039046,0.006211,0.07881,10055,2011,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.025599,0.006211,0.07881,10055,2011,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.018256,0.006211,0.07881,10055,2011,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.056157,0.006211,0.07881,10055,2011,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.033657,0.006211,0.07881,10055,2011,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.276864,0.000668,0.025846,10056,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.30952,0.000668,0.025846,10056,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.08606,0.001003,0.03167,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.086131,0.001003,0.03167,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.141275,0.001003,0.03167,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.081085,0.001003,0.03167,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.077919,0.001003,0.03167,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.132469,0.000513,0.02265,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.099318,0.000513,0.02265,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.027321,0.000513,0.02265,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0,0.000513,0.02265,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.03525,0.000513,0.02265,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0,0.000513,0.02265,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+-0.022468,0.000513,0.02265,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+-0.014137,0.000513,0.02265,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.022036,0.000513,0.02265,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.044517,0.000515,0.022694,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.033321,0.000515,0.022694,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.053538,0.000515,0.022694,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.022041,0.000515,0.022694,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.011631,0.000515,0.022694,10057,2013,Other: Western,Longitudinal,Islamist,Rally Effects
+0.13074,0.001456,0.038158,10058,2009,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.223656,0.001456,0.038158,10058,2009,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.060072,0.001456,0.038158,10058,2009,Other: Western,Correlation,Islamist,Conservatism
+0.4118,0.001502,0.038756,10058,2009,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.161387,0.001479,0.038458,10058,2009,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.202733,0.001493,0.038639,10058,2009,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.171667,0.001456,0.038158,10058,2009,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.016848,0.000276,0.016613,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.031877,0.000274,0.016553,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.009417,0.000203,0.014248,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+-0.004705,0.00019,0.013784,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+-0.010037,0.000324,0.018,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+-0.130552,0.000217,0.014731,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.005048,0.000246,0.015684,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+-0.136394,0.00024,0.015492,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.039807,0.000179,0.013379,10059,2018,Other: Western,(Quasi)Experiment,Extreme Right,Rally Effects
+-0.009333,0.000133,0.011533,10059,2018,Other: Western,(Quasi)Experiment,Extreme Right,Rally Effects
+-0.172186,0.000327,0.018083,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0.166872,0.000323,0.017972,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0.029707,0.000248,0.015748,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+-0.151098,0.000216,0.014697,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0.100385,0.000324,0.018,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.147121,0.000318,0.017833,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.066738,0.000306,0.017493,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.049461,0.000286,0.016912,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.079605,0.000304,0.017436,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.012417,0.000219,0.014799,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.005571,0.000282,0.016793,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0.013278,0.000308,0.01755,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+-0.008287,0.000196,0.014,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.057632,0.000287,0.016941,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.030063,0.000208,0.014422,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.002282,0.000237,0.015395,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.076026,0.000276,0.016613,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.740734,0.000274,0.016553,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.115321,0.000203,0.014248,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0.119869,0.00019,0.013784,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+-0.065016,0.000324,0.018,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.023904,0.000217,0.014731,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.006018,0.000246,0.015684,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+-0.027153,0.00024,0.015492,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.047259,0.000179,0.013379,10059,2018,Other: Western,(Quasi)Experiment,Extreme Right,Rally Effects
+0.030444,0.000133,0.011533,10059,2018,Other: Western,(Quasi)Experiment,Extreme Right,Rally Effects
+-0.157935,0.000327,0.018083,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0.033357,0.000323,0.017972,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+-0.029835,0.000248,0.015748,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0,0.000216,0.014697,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0.058322,0.000324,0.018,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.098727,0.000318,0.017833,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.100198,0.000306,0.017493,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.168598,0.000286,0.016912,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.056757,0.000304,0.017436,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+0.020429,0.000219,0.014799,10059,2018,Other: Western,(Quasi)Experiment,Other,Rally Effects
+-0.005361,0.000282,0.016793,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0.015543,0.000308,0.01755,10059,2018,,(Quasi)Experiment,Other,Rally Effects
+0.027774,0.000196,0.014,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.060224,0.000287,0.016941,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.027983,0.000208,0.014422,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.028224,0.000237,0.015395,10059,2018,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.159335,0.001767,0.042036,10060,2016,Israel,Longitudinal,Other,Outgroup Hostility
+0.133793,0.001767,0.042036,10060,2016,Israel,Longitudinal,Other,Outgroup Hostility
+0.19649,0.001757,0.041917,10060,2016,Israel,Longitudinal,Other,Conservatism
+0.141946,0.001757,0.041917,10060,2016,Israel,Longitudinal,Other,Conservatism
+0.09327,0.002618,0.051166,10060,2016,Israel,Longitudinal,Other,Outgroup Hostility
+0.153187,0.002618,0.051166,10060,2016,Israel,Longitudinal,Other,Outgroup Hostility
+0.075141,0.002618,0.051166,10060,2016,Israel,Longitudinal,Other,Conservatism
+0.033012,0.002618,0.051166,10060,2016,Israel,Longitudinal,Other,Conservatism
+0.082185,0.003584,0.059867,10060,2016,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.057062,0.003584,0.059867,10060,2016,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.124641,0.003584,0.059867,10060,2016,Israel,Longitudinal,Islamist,Conservatism
+0.065092,0.003584,0.059867,10060,2016,Israel,Longitudinal,Islamist,Conservatism
+0.167471,0.003559,0.059657,10061,2020,United States,(Quasi)Experiment,Islamist,Conservatism
+0.125408,0.003559,0.059657,10061,2020,United States,(Quasi)Experiment,Islamist,Conservatism
+0.132754,0.004608,0.067882,10061,2020,United States,(Quasi)Experiment,Islamist,Conservatism
+0.069535,0.00578,0.076026,10061,2020,United States,(Quasi)Experiment,Islamist,Conservatism
+-0.042954,0.004878,0.069843,10061,2020,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.057298,0.004878,0.069843,10061,2020,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+-0.031521,0.004878,0.069843,10061,2020,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.030877,0.004878,0.069843,10061,2020,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.053133,0.004878,0.069843,10061,2020,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.06689,0.004878,0.069843,10061,2020,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.223656,0.003236,0.056886,10061,2020,United States,Correlation,No Ideology,Conservatism
+0.060072,0.003236,0.056886,10061,2020,United States,Correlation,No Ideology,Outgroup Hostility
+0.020003,0.003236,0.056886,10061,2020,United States,Correlation,No Ideology,Conservatism
+0.200287,0.005587,0.074746,10061,2020,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.133682,0.005587,0.074746,10061,2020,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.029497,0.004902,0.070014,10062,2020,United States,(Quasi)Experiment,Other,Conservatism
+0.048548,0.004902,0.070014,10062,2020,United States,(Quasi)Experiment,Other,Conservatism
+0.023265,0.004902,0.070014,10062,2020,United States,(Quasi)Experiment,Other,Conservatism
+0.043898,0.004902,0.070014,10062,2020,United States,(Quasi)Experiment,Other,Conservatism
+-0.013114,0.004902,0.070014,10062,2020,United States,(Quasi)Experiment,Other,Conservatism
+0.708921,0.003257,0.05707,10063,2019,United States,Correlation,Islamist,Conservatism
+0.497311,0.003257,0.05707,10063,2019,United States,Correlation,Islamist,Outgroup Hostility
+0.331647,0.003257,0.05707,10063,2019,United States,Correlation,Islamist,Outgroup Hostility
+0.590145,0.003257,0.05707,10063,2019,United States,Correlation,Islamist,Outgroup Hostility
+0.647523,0.003257,0.05707,10063,2019,United States,Correlation,Islamist,Outgroup Hostility
+0.604156,0.003257,0.05707,10063,2019,United States,Correlation,Islamist,Outgroup Hostility
+0.829114,0.003257,0.05707,10063,2019,United States,Correlation,Islamist,Outgroup Hostility
+0.459897,0.003257,0.05707,10063,2019,United States,Correlation,Islamist,Outgroup Hostility
+0.447692,0.003257,0.05707,10063,2019,United States,Correlation,Islamist,Outgroup Hostility
+0.166016,0.004926,0.070185,10064,2006,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.15206,0.004926,0.070185,10064,2006,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.166589,0.004926,0.070185,10064,2006,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.118778,0.004926,0.070185,10064,2006,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.153779,0.004926,0.070185,10064,2006,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.308553,0.017544,0.132454,10065,2009,Other: Western,(Quasi)Experiment,Other,Outgroup Hostility
+0.43921,0.017544,0.132454,10065,2009,Other: Western,(Quasi)Experiment,Other,Outgroup Hostility
+-0.24796,0.013514,0.11625,10066,2015,United States,Correlation,Other,Rally Effects
+0.381489,0.013514,0.11625,10066,2015,United States,Correlation,Other,Rally Effects
+0.169608,0.013514,0.11625,10066,2015,United States,Correlation,Other,Rally Effects
+0.293116,0.013514,0.11625,10066,2015,United States,Correlation,Other,Rally Effects
+-0.280103,0.013514,0.11625,10066,2015,United States,Correlation,Other,Rally Effects
+0.131757,0.013514,0.11625,10066,2015,United States,Correlation,Other,Rally Effects
+0.402189,0.00361,0.060083,10067,2018,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.180532,0.006711,0.081921,10067,2018,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.396558,0.001972,0.044407,10068,2016,Israel,Correlation,Other,Rally Effects
+-0.43441,0.001972,0.044407,10068,2016,Israel,Correlation,Other,Rally Effects
+-0.296384,0.001972,0.044407,10068,2016,Israel,Correlation,Other,Rally Effects
+0.178393,0.001484,0.038523,10069,2006,United States,Correlation,No Ideology,Outgroup Hostility
+0.070262,0.001484,0.038523,10069,2006,United States,Correlation,No Ideology,Outgroup Hostility
+0.121596,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.070115,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.063084,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.01,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.050042,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.043027,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.036016,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.047035,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.07112,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.012001,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.082185,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.009,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.005,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Conservatism
+-0.009,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Conservatism
+0.137867,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Conservatism
+-0.035014,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Conservatism
+0.058065,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.013001,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+-0.035014,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.016001,0.001325,0.036401,10070,2018,Israel,Longitudinal,Islamist,Rally Effects
+0.058911,3.8e-05,0.006164,10071,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.023562,3.8e-05,0.006164,10071,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.057917,0.000657,0.025632,10072,2017,United States,Correlation,Islamist,Outgroup Hostility
+0.076843,0.000657,0.025632,10072,2017,United States,Correlation,Islamist,Outgroup Hostility
+-0.01231,0.000185,0.013601,10073,2013,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.010829,0.000185,0.013601,10073,2013,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.010166,0.000185,0.013601,10073,2013,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.004859,0.000193,0.013892,10073,2013,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.013371,5.1e-05,0.007141,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.092402,0.000985,0.031385,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.085488,0.000759,0.02755,10074,2011,,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.080554,0.000998,0.031591,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.074638,0.001068,0.03268,10074,2011,,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.071683,0.000801,0.028302,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.068728,0.000472,0.021726,10074,2011,,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.062823,0.000698,0.02642,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.062823,0.000921,0.030348,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.060855,0.000605,0.024597,10074,2011,,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.058888,0.000705,0.026552,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.058888,0.000772,0.027785,10074,2011,,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.052007,0.000916,0.030265,10074,2011,,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.01078,0.000968,0.031113,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.01078,0.001151,0.033926,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.026466,0.001094,0.033076,10074,2011,,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.029408,0.000923,0.030381,10074,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.247466,0.012987,0.113961,10075,2010,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.362039,0.012987,0.113961,10075,2010,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.403926,0.052632,0.229417,10075,2010,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.266108,0.012987,0.113961,10076,2010,Other: Western,Correlation,No Ideology,Conservatism
+0.14593,0.004608,0.067882,10077,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.164731,0.004608,0.067882,10077,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.205465,0.004608,0.067882,10077,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+-0.133131,0.003067,0.055381,10078,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.128052,0.003003,0.0548,10078,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.092126,0.003165,0.056258,10078,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.088195,0.003096,0.055642,10078,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.092848,0.002833,0.053226,10078,2019,,(Quasi)Experiment,Islamist,Conservatism
+0.033846,0.002924,0.054074,10078,2019,,(Quasi)Experiment,Islamist,Conservatism
+0.078756,0.002941,0.054231,10078,2019,,(Quasi)Experiment,Islamist,Conservatism
+0.018592,0.00304,0.055136,10078,2019,,(Quasi)Experiment,Islamist,Conservatism
+0.098323,0.002874,0.05361,10078,2019,United States,(Quasi)Experiment,Islamist,Conservatism
+0.086254,0.00295,0.054314,10078,2019,United States,(Quasi)Experiment,Islamist,Conservatism
+0.15776,0.002994,0.054717,10078,2019,United States,(Quasi)Experiment,Islamist,Conservatism
+-0.05432,0.002874,0.05361,10078,2019,United States,(Quasi)Experiment,Islamist,Conservatism
+-0.071813,0.002874,0.05361,10078,2019,United States,(Quasi)Experiment,Islamist,Conservatism
+0.003086,0.002874,0.05361,10078,2019,United States,(Quasi)Experiment,Islamist,Conservatism
+0.014723,0.002825,0.053151,10079,2004,United States,(Quasi)Experiment,Extreme Right,Conservatism
+0.013741,0.002825,0.053151,10079,2004,United States,(Quasi)Experiment,Extreme Right,Conservatism
+0.009675,0.002874,0.05361,10079,2004,United States,(Quasi)Experiment,Extreme Right,Conservatism
+-0.018243,0.002874,0.05361,10079,2004,United States,(Quasi)Experiment,Extreme Right,Conservatism
+-0.082185,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.037017,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.058065,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.117538,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.132775,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.134811,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.199609,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.171667,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+-0.18612,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+-0.044028,0.001429,0.037802,10080,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.061863,0.001233,0.035114,10081,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.024085,0.001253,0.035398,10081,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.022507,0.002793,0.052849,10081,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.031067,0.002725,0.052202,10081,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.011914,0.00123,0.035071,10081,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.014767,0.001252,0.035384,10081,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.014362,0.001233,0.035114,10081,2010,United States,(Quasi)Experiment,Islamist,Rally Effects
+-0.012141,0.001255,0.035426,10081,2010,United States,(Quasi)Experiment,Islamist,Rally Effects
+-0.014292,0.001227,0.035029,10081,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+-0.002441,0.001248,0.035327,10081,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.110447,0.000835,0.028896,10082,2016,United States,Correlation,No Ideology,Outgroup Hostility
+0.080171,0.000835,0.028896,10082,2016,United States,Correlation,No Ideology,Outgroup Hostility
+0.080171,0.000835,0.028896,10082,2016,United States,Correlation,No Ideology,Outgroup Hostility
+0.090244,0.000835,0.028896,10082,2016,United States,Correlation,No Ideology,Conservatism
+0.080171,0.000835,0.028896,10082,2016,United States,Correlation,No Ideology,Conservatism
+0.057223,0.000987,0.031417,10083,1990,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.326963,0.017544,0.132454,10084,2013,Other: Western,(Quasi)Experiment,No Ideology,Conservatism
+0.14695,0.001427,0.037776,10084,2013,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.14695,0.001427,0.037776,10084,2013,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.14695,0.001427,0.037776,10084,2013,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.14695,0.001427,0.037776,10084,2013,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.103691,0.001427,0.037776,10084,2013,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.14695,0.001427,0.037776,10084,2013,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.103367,0.000508,0.022539,10085,2017,,Correlation,Islamist,Rally Effects
+-0.047035,0.000508,0.022539,10085,2017,,Correlation,Islamist,Rally Effects
+-0.021003,0.000513,0.02265,10085,2017,,Correlation,Islamist,Rally Effects
+-0.042025,0.000513,0.02265,10085,2017,,Correlation,Islamist,Rally Effects
+-0.060072,0.000527,0.022956,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.036016,0.000528,0.022978,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.016001,0.000532,0.023065,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.011,0.000532,0.023065,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.109435,0.000514,0.022672,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.102356,0.000515,0.022694,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.050042,0.000519,0.022782,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.135829,0.008333,0.091285,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.065092,0.000508,0.022539,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.119567,0.000508,0.022539,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.119567,0.000513,0.02265,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.125657,0.000512,0.022627,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.118552,0.002,0.044721,10085,2017,,Correlation,Islamist,Rally Effects
+0.172697,0.002004,0.044766,10085,2017,,Correlation,Islamist,Rally Effects
+0.155235,0.002004,0.044766,10085,2017,,Correlation,Islamist,Rally Effects
+0.134811,0.002004,0.044766,10085,2017,,Correlation,Islamist,Rally Effects
+0.002,0.002058,0.045365,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.077153,0.002062,0.045409,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.121596,0.002062,0.045409,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.095287,0.002062,0.045409,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.100335,0.002028,0.045033,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.013001,0.002028,0.045033,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.117538,0.002033,0.045089,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.087221,0.002033,0.045089,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.056059,0.002004,0.044766,10085,2017,,Correlation,Islamist,Outgroup Hostility
+0.033012,0.002008,0.044811,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.01,0.002008,0.044811,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.015001,0.002008,0.044811,10085,2017,,Correlation,Islamist,Outgroup Hostility
+-0.000794,0.002488,0.04988,10086,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.093055,0.0025,0.05,10086,2019,Other: Western,(Quasi)Experiment,Extreme Right,Outgroup Hostility
+-0.070622,0.002481,0.04981,10086,2019,Other: Western,(Quasi)Experiment,Other,Outgroup Hostility
+0.088756,0.002488,0.04988,10086,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.017463,0.0025,0.05,10086,2019,Other: Western,(Quasi)Experiment,Extreme Right,Conservatism
+-0.022976,0.002481,0.04981,10086,2019,Other: Western,(Quasi)Experiment,Other,Conservatism
+0.013904,0.002488,0.04988,10086,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.05377,0.002488,0.04988,10086,2019,Other: Western,(Quasi)Experiment,Extreme Right,Conservatism
+-0.045361,0.002488,0.04988,10086,2019,Other: Western,(Quasi)Experiment,Other,Conservatism
+-0.012638,0.002488,0.04988,10086,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.02503,0.0025,0.05,10086,2019,Other: Western,(Quasi)Experiment,Extreme Right,Conservatism
+-0.035575,0.002481,0.04981,10086,2019,Other: Western,(Quasi)Experiment,Other,Conservatism
+-0.01977,0.002488,0.04988,10086,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.058856,0.002506,0.05006,10086,2019,Other: Western,(Quasi)Experiment,Extreme Right,Rally Effects
+0.040562,0.002481,0.04981,10086,2019,Other: Western,(Quasi)Experiment,Other,Rally Effects
+-0.061679,0.002488,0.04988,10086,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.006098,0.0025,0.05,10086,2019,Other: Western,(Quasi)Experiment,Extreme Right,Rally Effects
+0.004201,0.002481,0.04981,10086,2019,Other: Western,(Quasi)Experiment,Other,Rally Effects
+-0.055864,0.002506,0.05006,10086,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.088348,0.002513,0.05013,10086,2019,Other: Western,(Quasi)Experiment,Extreme Right,Outgroup Hostility
+-0.054583,0.002488,0.04988,10086,2019,Other: Western,(Quasi)Experiment,Other,Outgroup Hostility
+-0.044913,0.000433,0.020809,10087,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+-0.135684,0.000434,0.020833,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.06208,0.000433,0.020809,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.027007,0.000434,0.020833,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0,0.000435,0.020857,10087,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+-0.122611,0.000436,0.020881,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.037017,0.000435,0.020857,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.012001,0.000436,0.020881,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.054053,0.000428,0.020688,10087,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+-0.16344,0.000429,0.020712,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.057062,0.000428,0.020688,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.076147,0.000429,0.020712,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.118552,0.000428,0.020688,10087,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+-0.21736,0.000429,0.020712,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.023004,0.000428,0.020688,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.118552,0.000429,0.020712,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.153187,0.00043,0.020736,10087,2018,Other: Western,Correlation,No Ideology,Rally Effects
+-0.202733,0.00043,0.020736,10087,2018,Other: Western,Correlation,Islamist,Rally Effects
+-0.123626,0.00043,0.020736,10087,2018,Other: Western,Correlation,Islamist,Rally Effects
+-0.202733,0.00043,0.020736,10087,2018,Other: Western,Correlation,Islamist,Rally Effects
+-0.032011,0.000602,0.024536,10087,2018,Other: Western,Correlation,No Ideology,Conservatism
+-0.105388,0.000603,0.024556,10087,2018,Other: Western,Correlation,Islamist,Conservatism
+0.118552,0.000603,0.024556,10087,2018,Other: Western,Correlation,Islamist,Conservatism
+-0.047035,0.000603,0.024556,10087,2018,Other: Western,Correlation,Islamist,Conservatism
+0.280199,0.001181,0.034366,10087,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.03338,0.001181,0.034366,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.229798,0.001181,0.034366,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.129084,0.001181,0.034366,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.270086,0.001182,0.03438,10087,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.004529,0.001182,0.03438,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.232598,0.001182,0.03438,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.146945,0.001182,0.03438,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.290903,0.001161,0.034073,10087,2018,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.061576,0.001166,0.034147,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.234127,0.001166,0.034147,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.156867,0.001166,0.034147,10087,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.087541,0.001157,0.034015,10087,2018,Other: Western,Correlation,No Ideology,Rally Effects
+-0.035865,0.001163,0.034103,10087,2018,Other: Western,Correlation,Islamist,Rally Effects
+0.103918,0.001163,0.034103,10087,2018,Other: Western,Correlation,Islamist,Rally Effects
+-0.000821,0.001163,0.034103,10087,2018,Other: Western,Correlation,Islamist,Rally Effects
+0.286699,0.001274,0.035693,10087,2018,Other: Western,Correlation,No Ideology,Conservatism
+0.018901,0.001276,0.035721,10087,2018,Other: Western,Correlation,Islamist,Conservatism
+0.277744,0.001276,0.035721,10087,2018,Other: Western,Correlation,Islamist,Conservatism
+0.237577,0.001276,0.035721,10087,2018,Other: Western,Correlation,Islamist,Conservatism
+0.30952,0.005435,0.073722,10088,2010,,Correlation,No Ideology,Outgroup Hostility
+0.213171,0.005435,0.073722,10088,2010,,Correlation,No Ideology,Conservatism
+0.149095,0.000273,0.016523,10089,2017,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.13909,0.000273,0.016523,10089,2017,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.129113,0.000273,0.016523,10089,2017,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.129113,0.000273,0.016523,10089,2017,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.266108,0.003846,0.062016,10090,2016,Israel,Correlation,Other,Outgroup Hostility
+0.497503,0.003846,0.062016,10090,2016,Israel,Correlation,Other,Outgroup Hostility
+0.368117,0.003846,0.062016,10090,2016,Israel,Correlation,Other,Conservatism
+0.079567,0.011905,0.10911,10091,2014,Other: Western,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.149095,0.000418,0.020445,10091,2014,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.036567,0.003205,0.056613,10092,2017,United States,Correlation,Islamist,Conservatism
+-0.079494,0.003205,0.056613,10092,2017,United States,Correlation,Islamist,Conservatism
+-0.014009,0.003205,0.056613,10092,2017,United States,Correlation,Islamist,Conservatism
+-0.027452,0.003861,0.062137,10092,2017,United States,Correlation,Islamist,Conservatism
+0.081554,0.003861,0.062137,10092,2017,United States,Correlation,Islamist,Conservatism
+-0.046891,0.003861,0.062137,10092,2017,United States,Correlation,Islamist,Conservatism
+0.014261,0.003861,0.062137,10092,2017,United States,Correlation,Islamist,Outgroup Hostility
+0.103896,0.003861,0.062137,10092,2017,United States,Correlation,Islamist,Outgroup Hostility
+0,0.001477,0.038432,10093,2017,Israel,(Quasi)Experiment,No Ideology,Conservatism
+0.04731,0.001451,0.038092,10093,2017,Israel,(Quasi)Experiment,No Ideology,Conservatism
+0.003981,0.001477,0.038432,10093,2017,Israel,(Quasi)Experiment,No Ideology,Conservatism
+0.131113,0.001453,0.038118,10093,2017,Israel,(Quasi)Experiment,No Ideology,Conservatism
+-0.061486,0.002188,0.046776,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.00378,0.002222,0.047138,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.023992,0.003226,0.056798,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.004351,0.002188,0.046776,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.063884,0.002222,0.047138,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.029935,0.003226,0.056798,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.016149,0.002188,0.046776,10093,2017,Israel,(Quasi)Experiment,Islamist,Rally Effects
+-0.004843,0.002222,0.047138,10093,2017,Israel,(Quasi)Experiment,Islamist,Rally Effects
+-0.005981,0.003226,0.056798,10093,2017,Israel,(Quasi)Experiment,Islamist,Rally Effects
+0.028998,0.002188,0.046776,10093,2017,Israel,(Quasi)Experiment,Islamist,Rally Effects
+0.009,0.002222,0.047138,10093,2017,Israel,(Quasi)Experiment,Islamist,Rally Effects
+-0.050808,0.003226,0.056798,10093,2017,Israel,(Quasi)Experiment,Islamist,Rally Effects
+-0.078275,0.002188,0.046776,10093,2017,Israel,(Quasi)Experiment,Islamist,Rally Effects
+-0.102144,0.002222,0.047138,10093,2017,Israel,(Quasi)Experiment,Islamist,Rally Effects
+-0.078832,0.003226,0.056798,10093,2017,Israel,(Quasi)Experiment,Islamist,Rally Effects
+-0.053272,0.002198,0.046883,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.01589,0.002222,0.047138,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.003366,0.003226,0.056798,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.014583,0.002198,0.046883,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0,0.002222,0.047138,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.030622,0.003226,0.056798,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.012058,0.002198,0.046883,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.01175,0.002222,0.047138,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.066472,0.003226,0.056798,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.003095,0.002198,0.046883,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.034928,0.002222,0.047138,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.131197,0.003226,0.056798,10093,2017,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.0419676293837314,0.001104964081,0.033241,10093,2017,Israel,Longitudinal,No Ideology,Conservatism
+0.0506234600170766,0.001104964081,0.033241,10093,2017,Israel,Longitudinal,No Ideology,Conservatism
+-0.015284654449423,0.001102505616,0.033204,10093,2017,Israel,Longitudinal,No Ideology,Conservatism
+-0.109556437852,0.001102505616,0.033204,10093,2017,Israel,Longitudinal,No Ideology,Conservatism
+-0.0412194266307357,0.001102505616,0.033204,10093,2017,Israel,Longitudinal,No Ideology,Conservatism
+-0.166789241181529,0.001102505616,0.033204,10093,2017,Israel,Longitudinal,No Ideology,Conservatism
+0.090244,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.01,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.213171,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.213171,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.161387,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.202733,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.090244,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+-0.01,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.223656,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.234189,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.171667,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.181983,0.001044,0.032311,10094,2009,Israel,Correlation,Other,Outgroup Hostility
+0.119029821175864,0.001999967841,0.044721,10095,2018,,Correlation,Other,Conservatism
+-0.254067464688823,0.001331593081,0.036491,10095,2018,,Correlation,Other,Conservatism
+0.126415162499191,0.001366115521,0.036961,10095,2018,,Correlation,Other,Conservatism
+0.18107489817334,0.001362421921,0.036911,10095,2018,,Correlation,Other,Conservatism
+0.0322250050752611,0.001367964196,0.036986,10095,2018,,Correlation,Other,Conservatism
+-0.0764515100008565,0.001366115521,0.036961,10095,2018,,Correlation,Other,Conservatism
+0.000723344490775571,0.001355049721,0.036811,10095,2018,,Correlation,Other,Conservatism
+0.0419541923429155,0.001999967841,0.044721,10095,2018,,Correlation,Other,Conservatism
+-0.111098482653646,0.001331593081,0.036491,10095,2018,,Correlation,Other,Conservatism
+0.0723188912653419,0.001366115521,0.036961,10095,2018,,Correlation,Other,Conservatism
+0.0924707263404835,0.001362421921,0.036911,10095,2018,,Correlation,Other,Conservatism
+0.0754213108263654,0.001367964196,0.036986,10095,2018,,Correlation,Other,Conservatism
+-0.0440392942626502,0.001366115521,0.036961,10095,2018,,Correlation,Other,Conservatism
+0.0810949230910095,0.001355049721,0.036811,10095,2018,,Correlation,Other,Conservatism
+-0.00312184057483748,0.001999967841,0.044721,10095,2018,,Correlation,Other,Conservatism
+-0.156523578341035,0.001331593081,0.036491,10095,2018,,Correlation,Other,Conservatism
+0.077241958477364,0.001366115521,0.036961,10095,2018,,Correlation,Other,Conservatism
+0.160636091666009,0.001362421921,0.036911,10095,2018,,Correlation,Other,Conservatism
+0.109248704858452,0.001367964196,0.036986,10095,2018,,Correlation,Other,Conservatism
+0.0761603806502963,0.001366115521,0.036961,10095,2018,,Correlation,Other,Conservatism
+0.0660181203233683,0.001355049721,0.036811,10095,2018,,Correlation,Other,Conservatism
+0.0496056235196404,0.001999967841,0.044721,10095,2018,,Correlation,Other,Conservatism
+0.0810700935889919,0.001331593081,0.036491,10095,2018,,Correlation,Other,Conservatism
+-0.0334627968074536,0.001366115521,0.036961,10095,2018,,Correlation,Other,Conservatism
+-0.0684938241940831,0.001362421921,0.036911,10095,2018,,Correlation,Other,Conservatism
+0.024115666820742,0.001367964196,0.036986,10095,2018,,Correlation,Other,Conservatism
+-0.161826954288846,0.001366115521,0.036961,10095,2018,,Correlation,Other,Conservatism
+0.100476244697447,0.001355049721,0.036811,10095,2018,,Correlation,Other,Conservatism
+0.100335,0.0013,0.036056,10096,2009,Israel,Correlation,Islamist,Outgroup Hostility
+-0.497311,0.001185,0.034424,10097,2009,Israel,Correlation,No Ideology,Outgroup Hostility
+-0.549306,0.002222,0.047138,10097,2009,Israel,Correlation,No Ideology,Outgroup Hostility
+-0.320545,0.001185,0.034424,10097,2009,Israel,Correlation,No Ideology,Outgroup Hostility
+-0.342828,0.002222,0.047138,10097,2009,Israel,Correlation,No Ideology,Outgroup Hostility
+-0.298566,0.001185,0.034424,10097,2009,Israel,Correlation,No Ideology,Outgroup Hostility
+-0.342828,0.002222,0.047138,10097,2009,Israel,Correlation,No Ideology,Outgroup Hostility
+0.407084,0.010989,0.104828,10098,2013,Israel,(Quasi)Experiment,Other,Conservatism
+-0.281276,0.019608,0.140029,10098,2013,Israel,(Quasi)Experiment,Other,Conservatism
+0.090244,0.003663,0.060523,10099,2008,Israel,Correlation,Other,Conservatism
+0.080171,0.003663,0.060523,10099,2008,Israel,Correlation,Other,Conservatism
+0.060072,0.003663,0.060523,10099,2008,Israel,Correlation,Other,Conservatism
+-0.01,0.000682,0.026115,10099,2008,Israel,Correlation,Other,Conservatism
+-0.020003,0.000682,0.026115,10099,2008,Israel,Correlation,Other,Conservatism
+-0.060072,0.000682,0.026115,10099,2008,Israel,Correlation,Other,Conservatism
+0.109232,0.004651,0.068198,10100,2005,United States,Correlation,Islamist,Conservatism
+0.179297,0.004651,0.068198,10100,2005,United States,Correlation,No Ideology,Conservatism
+0.165495,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.120581,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.077153,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.084198,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.110447,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.138886,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.201691,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Conservatism
+0.162413,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Conservatism
+0.05305,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Rally Effects
+0.171667,6.1e-05,0.00781,10101,2019,Other: Western,Correlation,No Ideology,Rally Effects
+0.100335,0.003802,0.06166,10102,2009,United States,Correlation,Islamist,Outgroup Hostility
+0.4118,0.003802,0.06166,10102,2009,United States,Correlation,Islamist,Rally Effects
+-0.070115,0.003802,0.06166,10102,2009,United States,Correlation,Islamist,Rally Effects
+0.110447,0.003802,0.06166,10102,2009,United States,Correlation,Islamist,Conservatism
+0.423649,0.003802,0.06166,10102,2009,United States,Correlation,Islamist,Conservatism
+0.376886,0.003802,0.06166,10102,2009,United States,Correlation,Islamist,Conservatism
+0.287682,0.003802,0.06166,10102,2009,United States,Correlation,Islamist,Conservatism
+0.342828,0.003802,0.06166,10102,2009,United States,Correlation,Islamist,Conservatism
+0.181983,0.003802,0.06166,10102,2009,United States,Correlation,Islamist,Conservatism
+0.57634,0.002457,0.049568,10103,2019,United States,Correlation,No Ideology,Conservatism
+0.354093,0.002457,0.049568,10103,2019,United States,Correlation,No Ideology,Conservatism
+0.354093,0.002457,0.049568,10103,2019,United States,Correlation,No Ideology,Conservatism
+0.647523,0.002457,0.049568,10103,2019,United States,Correlation,No Ideology,Conservatism
+0.080171,0.001003,0.03167,10104,2011,United States,Correlation,No Ideology,Conservatism
+0.161387,0.001003,0.03167,10104,2011,United States,Correlation,No Ideology,Conservatism
+0.070115,0.000668,0.025846,10104,2011,United States,Correlation,No Ideology,Conservatism
+0.181983,0.000668,0.025846,10104,2011,United States,Correlation,No Ideology,Conservatism
+0.425747,0.000286,0.016912,10105,2004,United States,Correlation,Islamist,Rally Effects
+0.115967,0.009009,0.094916,10106,2017,Israel,(Quasi)Experiment,Other,Conservatism
+0.214379,0.009009,0.094916,10106,2017,Israel,(Quasi)Experiment,Other,Conservatism
+0.026488,0.009009,0.094916,10106,2017,Israel,(Quasi)Experiment,Other,Conservatism
+0.241343,0.009009,0.094916,10106,2017,Israel,(Quasi)Experiment,Other,Conservatism
+0.256725,0.009009,0.094916,10106,2017,Israel,(Quasi)Experiment,Other,Conservatism
+0.270299,0.011765,0.108467,10106,2017,Israel,(Quasi)Experiment,Other,Conservatism
+0.333591,0.011765,0.108467,10106,2017,Israel,(Quasi)Experiment,Other,Conservatism
+0.029408,0.002105,0.04588,10106,2017,Israel,(Quasi)Experiment,Other,Conservatism
+0.08843,0.002105,0.04588,10106,2017,Israel,(Quasi)Experiment,Other,Conservatism
+0.14573,0.000616,0.024819,10107,2016,Israel,Longitudinal,Other,Conservatism
+0.100335,0.000616,0.024819,10107,2016,Israel,Longitudinal,Other,Conservatism
+0.012642,0.004525,0.067268,10108,2007,United States,Correlation,Islamist,Outgroup Hostility
+0.185594,0.004525,0.067268,10108,2007,United States,Correlation,Islamist,Outgroup Hostility
+0.070355,0.004525,0.067268,10108,2007,United States,Correlation,Islamist,Outgroup Hostility
+0.040021,0.005495,0.074128,10109,2006,Israel,Correlation,Other,Outgroup Hostility
+0.03902,0.001395,0.03735,10109,2006,Israel,Correlation,Other,Outgroup Hostility
+-0.072125,0.005495,0.074128,10109,2006,Israel,Correlation,Other,Conservatism
+0.159335,0.001395,0.03735,10109,2006,Israel,Correlation,Other,Conservatism
+0.129723,0.005495,0.074128,10109,2006,Israel,Correlation,Other,Conservatism
+0.007,0.001395,0.03735,10109,2006,Israel,Correlation,Other,Conservatism
+-0.102836,0.001859,0.043116,10110,2019,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.08309,0.001859,0.043116,10110,2019,United States,(Quasi)Experiment,No Ideology,Rally Effects
+-0.035991,0.001859,0.043116,10110,2019,United States,(Quasi)Experiment,No Ideology,Rally Effects
+-0.031773,0.001859,0.043116,10110,2019,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.036507,0.002105,0.04588,10110,2019,United States,(Quasi)Experiment,Islamist,Rally Effects
+-0.017454,0.002105,0.04588,10110,2019,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.002562,0.002105,0.04588,10110,2019,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.009022,0.002105,0.04588,10110,2019,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.199471,0.010638,0.103141,10111,2011,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.248091,0.010204,0.101015,10111,2011,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.158277,0.010638,0.103141,10111,2011,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.072142,0.010204,0.101015,10111,2011,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.150306,0.010638,0.103141,10111,2011,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.077938,0.010204,0.101015,10111,2011,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.338977,0.010309,0.101533,10111,2011,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.17878,0.010309,0.101533,10111,2011,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.066313,0.010638,0.103141,10111,2011,United States,(Quasi)Experiment,No Ideology,Rally Effects
+-0.01142,0.010204,0.101015,10111,2011,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.028622,0.000965,0.031064,10112,2016,United States,(Quasi)Experiment,No Ideology,Rally Effects
+-0.099107,0.000965,0.031064,10112,2016,United States,(Quasi)Experiment,No Ideology,Rally Effects
+-0.015928,0.000934,0.030561,10112,2016,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.061617,0.000934,0.030561,10112,2016,United States,(Quasi)Experiment,No Ideology,Rally Effects
+-0.041238,0.000934,0.030561,10112,2016,United States,(Quasi)Experiment,No Ideology,Rally Effects
+0.07712,0.000934,0.030561,10112,2016,United States,(Quasi)Experiment,No Ideology,Rally Effects
+-0.045405,0.001316,0.036277,10113,2017,United States,Correlation,No Ideology,Rally Effects
+-0.052419,0.00133,0.036469,10113,2017,United States,Correlation,No Ideology,Rally Effects
+-0.063421,0.001316,0.036277,10113,2017,United States,Correlation,No Ideology,Rally Effects
+-0.063757,0.00133,0.036469,10113,2017,United States,Correlation,No Ideology,Rally Effects
+-0.048564,0.001316,0.036277,10113,2017,United States,Correlation,No Ideology,Rally Effects
+-0.036964,0.00133,0.036469,10113,2017,United States,Correlation,No Ideology,Rally Effects
+0.031795,0.001316,0.036277,10113,2017,United States,Correlation,No Ideology,Rally Effects
+0.023987,0.00133,0.036469,10113,2017,United States,Correlation,No Ideology,Rally Effects
+0.023299,0.001316,0.036277,10113,2017,United States,Correlation,No Ideology,Rally Effects
+0.012082,0.00133,0.036469,10113,2017,United States,Correlation,No Ideology,Rally Effects
+0.009175,0.001316,0.036277,10113,2017,United States,Correlation,No Ideology,Rally Effects
+0.00735,0.00133,0.036469,10113,2017,United States,Correlation,No Ideology,Rally Effects
+0.240871,0.010638,0.103141,10114,2009,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.060072,0.003759,0.061311,10115,2012,United States,Correlation,Other,Outgroup Hostility
+-0.354093,0.003759,0.061311,10115,2012,United States,Correlation,Other,Outgroup Hostility
+0.287682,0.003759,0.061311,10115,2012,United States,Correlation,Islamist,Outgroup Hostility
+-0.298566,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.090244,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.161387,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.40006,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.234189,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.161387,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.15114,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.040021,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+0.030009,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.120581,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.020003,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+0.140926,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.287682,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.020003,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+0.030009,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+0.161387,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.080171,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.050042,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+0.30952,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+0.13074,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+0.140926,0.00431,0.065651,10116,2014,Other: Western,Correlation,Islamist,Conservatism
+-0.376886,0.009709,0.098534,10117,2015,Other: Western,Correlation,Islamist,Conservatism
+-0.255413,0.009709,0.098534,10117,2015,Other: Western,Correlation,Islamist,Conservatism
+0.223656,0.009709,0.098534,10117,2015,Other: Western,Correlation,Islamist,Conservatism
+0.01,0.009709,0.098534,10117,2015,Other: Western,Correlation,Islamist,Conservatism
+0.040021,0.009709,0.098534,10117,2015,Other: Western,Correlation,Islamist,Conservatism
+0.192337,0.009709,0.098534,10117,2015,Other: Western,Correlation,Islamist,Conservatism
+-0.287682,0.00304,0.055136,10117,2015,,Correlation,Islamist,Conservatism
+-0.342828,0.00304,0.055136,10117,2015,,Correlation,Islamist,Conservatism
+0.342828,0.00304,0.055136,10117,2015,,Correlation,Islamist,Conservatism
+0.120581,0.00304,0.055136,10117,2015,,Correlation,Islamist,Conservatism
+0.080171,0.00304,0.055136,10117,2015,,Correlation,Islamist,Conservatism
+-0.030009,0.00304,0.055136,10117,2015,,Correlation,Islamist,Conservatism
+-0.145675,0.001015,0.031859,10118,2014,Other: Western,(Quasi)Experiment,Extreme Right,Outgroup Hostility
+0.002,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.03902,0.001795,0.042367,10119,2009,Israel,Longitudinal,Islamist,Conservatism
+0.013001,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.038018,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.023004,0.001795,0.042367,10119,2009,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.040021,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.03902,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.140926,0.001795,0.042367,10119,2009,Israel,Longitudinal,Islamist,Conservatism
+0.096297,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.021003,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.009,0.001795,0.042367,10119,2009,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.004,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.116525,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.135829,0.001795,0.042367,10119,2009,Israel,Longitudinal,Islamist,Conservatism
+0.137867,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.111459,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.058065,0.001795,0.042367,10119,2009,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.089236,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.19649,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.173727,0.001795,0.042367,10119,2009,Israel,Longitudinal,Islamist,Conservatism
+0.195451,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.15114,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.047035,0.001795,0.042367,10119,2009,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.044028,0.001795,0.042367,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.030009,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.016001,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.041023,0.005587,0.074746,10119,2009,Israel,Longitudinal,Islamist,Conservatism
+-0.040021,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+-0.03101,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.036016,0.005587,0.074746,10119,2009,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.038018,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Conservatism
+-0.005,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.03902,0.005587,0.074746,10119,2009,Israel,Longitudinal,Islamist,Conservatism
+0.160361,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.007,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.119567,0.005587,0.074746,10119,2009,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.185085,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.095287,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.207946,0.005587,0.074746,10119,2009,Israel,Longitudinal,Islamist,Conservatism
+0.123626,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+-0.051044,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+-0.013001,0.005587,0.074746,10119,2009,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.161387,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.149095,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Conservatism
+0.202733,0.005587,0.074746,10119,2009,Israel,Longitudinal,Islamist,Conservatism
+0.06208,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.021003,0.005587,0.074746,10119,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.029008,0.005587,0.074746,10119,2009,Israel,Longitudinal,Islamist,Outgroup Hostility
+0.029396,0.001757,0.041917,10120,2011,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+-0.068368,0.001754,0.041881,10120,2011,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+-0.089464,0.001767,0.042036,10120,2011,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+-0.065674,0.001757,0.041917,10120,2011,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+-0.049336,0.001757,0.041917,10120,2011,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.236602,0.000499,0.022338,10121,2010,Israel,Correlation,Islamist,Rally Effects
+0.354093,0.006329,0.079555,10122,2007,United States,Correlation,No Ideology,Conservatism
+0.4118,0.005587,0.074746,10122,2007,United States,Correlation,No Ideology,Conservatism
+0.09488,0.015873,0.125988,10123,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.176214,0.012195,0.110431,10123,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.048076,0.015873,0.125988,10123,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.141132,0.012346,0.111113,10123,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.079559,0.015873,0.125988,10123,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.280061,0.012346,0.111113,10123,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.044458,0.015873,0.125988,10123,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.212191,0.012346,0.111113,10123,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.274708,0.001344,0.036661,10124,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.289854,0.001344,0.036661,10124,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.355224,0.001344,0.036661,10124,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.193375,0.001344,0.036661,10124,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.07313,0.001344,0.036661,10124,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.074829,0.001344,0.036661,10124,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.010223,0.001344,0.036661,10124,2018,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.376886,0.02,0.141421,10125,2017,Israel,Correlation,Other,Conservatism
+-0.13074,0.02,0.141421,10125,2017,Israel,Correlation,Other,Conservatism
+-0.161387,0.02,0.141421,10125,2017,Israel,Correlation,Other,Conservatism
+0.120581,0.02,0.141421,10125,2017,Israel,Correlation,Other,Conservatism
+-0.030009,0.019608,0.140029,10125,2017,Israel,Correlation,Other,Conservatism
+-0.030009,0.019608,0.140029,10125,2017,Israel,Correlation,Other,Conservatism
+-0.020003,0.019608,0.140029,10125,2017,Israel,Correlation,Other,Conservatism
+-0.020003,0.019608,0.140029,10125,2017,Israel,Correlation,Other,Conservatism
+-0.262232,0.027778,0.166667,10126,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.152221,0.028571,0.16903,10126,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.04675,0.021739,0.147442,10126,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.241781,0.022727,0.150755,10126,2011,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.223656,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Conservatism
+0.354093,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Conservatism
+0.050042,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Conservatism
+0.213171,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Conservatism
+0.13074,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Outgroup Hostility
+0.298566,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Outgroup Hostility
+0.060072,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Outgroup Hostility
+0.202733,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Outgroup Hostility
+0.192337,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Conservatism
+0.276864,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Conservatism
+0.100335,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Conservatism
+0.276864,0.002558,0.050577,10127,2016,United States,Correlation,Islamist,Conservatism
+0.003889,0.012987,0.113961,10127,2016,United States,(Quasi)Experiment,Islamist,Conservatism
+0.202064,0.012987,0.113961,10127,2016,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.302047,0.012987,0.113961,10127,2016,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.19101,0.012987,0.113961,10127,2016,United States,(Quasi)Experiment,Islamist,Conservatism
+-0.233134,0.000981,0.031321,10128,2019,Israel,Correlation,No Ideology,Rally Effects
+-0.179916,0.000981,0.031321,10128,2019,Israel,Correlation,No Ideology,Rally Effects
+0.20586,0.000981,0.031321,10128,2019,Israel,Correlation,No Ideology,Rally Effects
+-0.128706,0.000981,0.031321,10128,2019,Israel,Correlation,No Ideology,Rally Effects
+-0.064088,0.000981,0.031321,10128,2019,Israel,Correlation,No Ideology,Rally Effects
+-0.087221,0.000981,0.031321,10128,2019,Israel,Correlation,No Ideology,Rally Effects
+-0.030009,0.000981,0.031321,10128,2019,Israel,Correlation,No Ideology,Rally Effects
+-0.095287,0.000981,0.031321,10128,2019,Israel,Correlation,No Ideology,Rally Effects
+0.050042,0.012987,0.113961,10129,2015,Israel,Correlation,Islamist,Outgroup Hostility
+0.030009,0.012987,0.113961,10129,2015,Israel,Correlation,Islamist,Conservatism
+0.13074,0.012987,0.113961,10129,2015,Israel,Correlation,Islamist,Conservatism
+0.223656,0.012987,0.113961,10129,2015,Israel,Correlation,Islamist,Conservatism
+-0.030009,0.008333,0.091285,10129,2015,Israel,Correlation,Islamist,Outgroup Hostility
+0.140926,0.008333,0.091285,10129,2015,Israel,Correlation,Islamist,Conservatism
+0.060072,0.008333,0.091285,10129,2015,Israel,Correlation,Islamist,Conservatism
+0.080171,0.008333,0.091285,10129,2015,Israel,Correlation,Islamist,Conservatism
+0.234189,0.008333,0.091285,10129,2015,Israel,Correlation,Islamist,Conservatism
+0.396558,0.012048,0.109763,10130,2011,Other: Western,Correlation,No Ideology,Conservatism
+0.651978,0.012048,0.109763,10130,2011,Other: Western,Correlation,No Ideology,Conservatism
+0.213171,0.015385,0.124036,10130,2011,Other: Western,Correlation,No Ideology,Conservatism
+0.323868,0.015385,0.124036,10130,2011,Other: Western,Correlation,No Ideology,Conservatism
+0.261823,0.008475,0.09206,10130,2011,Other: Western,Correlation,No Ideology,Conservatism
+0.175789,0.008475,0.09206,10130,2011,Other: Western,Correlation,No Ideology,Conservatism
+0.365444,0.005814,0.07625,10130,2011,,Correlation,No Ideology,Conservatism
+0.364305,0.005814,0.07625,10130,2011,,Correlation,No Ideology,Conservatism
+0.365444,0.020408,0.142857,10131,2010,,Correlation,Islamist,Conservatism
+0.234189,0.020408,0.142857,10131,2010,,Correlation,Islamist,Conservatism
+-0.213171,0.020408,0.142857,10131,2010,,Correlation,Islamist,Conservatism
+0.001747,0.020408,0.142857,10131,2010,,Correlation,Islamist,Conservatism
+0.097916,0.001312,0.036222,10132,2015,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.012862,0.00161,0.040125,10132,2015,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.376886,0.002924,0.054074,10132,2015,United States,Correlation,No Ideology,Outgroup Hostility
+0.16229,0.000468,0.021633,10133,2007,United States,Longitudinal,Islamist,Rally Effects
+0.062213,0.005128,0.07161,10134,2012,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.123065,0.005128,0.07161,10134,2012,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.023058,0.009009,0.094916,10134,2012,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.097465,0.009009,0.094916,10134,2012,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.14711,0.027027,0.164399,10134,2012,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.013988,0.027027,0.164399,10134,2012,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.050715,0.02439,0.156173,10134,2012,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.180509,0.02439,0.156173,10134,2012,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.100335,0.001953,0.044193,10135,2019,Israel,Correlation,Islamist,Conservatism
+0.060072,0.001953,0.044193,10135,2019,Israel,Correlation,Islamist,Conservatism
+0.080171,0.001953,0.044193,10135,2019,Israel,Correlation,Islamist,Rally Effects
+-0.060072,0.001953,0.044193,10135,2019,Israel,Correlation,Other,Conservatism
+-0.090244,0.001953,0.044193,10135,2019,Israel,Correlation,Other,Conservatism
+-0.298566,0.001953,0.044193,10135,2019,Israel,Correlation,Other,Rally Effects
+0.01,0.001953,0.044193,10135,2019,Israel,Correlation,Other,Conservatism
+0.020003,0.001953,0.044193,10135,2019,Israel,Correlation,Other,Conservatism
+0.030009,0.001953,0.044193,10135,2019,Israel,Correlation,Other,Rally Effects
+0.294218,0.007752,0.088045,10136,2010,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.21283,0.007752,0.088045,10136,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.18561,0.007752,0.088045,10136,2010,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.008704,0.007752,0.088045,10136,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.322737,0.023256,0.152499,10136,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.014744,0.023256,0.152499,10136,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.335049,0.023256,0.152499,10136,2010,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.276121,0.021277,0.145866,10136,2010,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.293106,0.021277,0.145866,10136,2010,United States,(Quasi)Experiment,Islamist,Conservatism
+0.014142,0.021277,0.145866,10136,2010,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.948458,0.014085,0.11868,10137,2004,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.011625,0.014085,0.11868,10137,2004,United States,(Quasi)Experiment,Islamist,Conservatism
+-0.093593,0.001229,0.035057,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.080074,0.001229,0.035057,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.098418,0.00123,0.035071,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.122367,0.00123,0.035071,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.126307,0.002179,0.04668,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.01405,0.001229,0.035057,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.047661,0.001229,0.035057,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.006415,0.001229,0.035057,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.052769,0.001229,0.035057,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.070481,0.001229,0.035057,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.004653,0.00123,0.035071,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.058409,0.002151,0.046379,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.003984,0.001229,0.035057,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.032002,0.002137,0.046228,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.10494,0.002208,0.046989,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.026091,0.002141,0.046271,10138,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.365444,0.000397,0.019925,10139,2010,Israel,Correlation,No Ideology,Rally Effects
+0.080171,0.000397,0.019925,10139,2010,Israel,Correlation,No Ideology,Rally Effects
+0.354093,0.000565,0.02377,10139,2010,Israel,Correlation,No Ideology,Rally Effects
+0.080171,0.000565,0.02377,10139,2010,Israel,Correlation,No Ideology,Rally Effects
+0.255413,0.001767,0.042036,10139,2010,Israel,Correlation,No Ideology,Rally Effects
+0.213171,0.001767,0.042036,10139,2010,Israel,Correlation,No Ideology,Rally Effects
+0.110447,0.005525,0.07433,10139,2010,Israel,Correlation,No Ideology,Rally Effects
+-0.030009,0.005525,0.07433,10139,2010,Israel,Correlation,No Ideology,Rally Effects
+0.051044,0.003367,0.058026,10140,2005,Israel,Correlation,Other,Conservatism
+0.070115,0.003367,0.058026,10140,2005,Israel,Correlation,Other,Conservatism
+0.100335,0.003367,0.058026,10140,2005,Israel,Correlation,Other,Conservatism
+0.19753,0.003367,0.058026,10140,2005,Israel,Correlation,Other,Conservatism
+0.226811,0.003367,0.058026,10140,2005,Israel,Correlation,Other,Conservatism
+0.07313,0.003367,0.058026,10140,2005,Israel,Correlation,Other,Conservatism
+0.099325,0.003367,0.058026,10140,2005,Israel,Correlation,Other,Conservatism
+0.342828,0.004132,0.064281,10140,2005,Israel,Correlation,Other,Conservatism
+0.107411,0.004132,0.064281,10140,2005,Israel,Correlation,Other,Conservatism
+0.143987,0.004132,0.064281,10140,2005,Israel,Correlation,Other,Conservatism
+0.041023,0.004132,0.064281,10140,2005,Israel,Correlation,Other,Conservatism
+0.15114,0.004132,0.064281,10140,2005,Israel,Correlation,Other,Conservatism
+0.145008,0.004132,0.064281,10140,2005,Israel,Correlation,Other,Conservatism
+0.159335,0.004132,0.064281,10140,2005,Israel,Correlation,Other,Conservatism
+0.080171,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.090244,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.01,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.110447,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.060072,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.070115,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.060072,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.060072,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.030009,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.120581,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.030009,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.080171,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.080171,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.050042,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.030009,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.030009,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.01,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.030009,0.001285,0.035847,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.020003,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.01,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.040021,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.080171,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.040021,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.080171,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.080171,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.050042,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.020003,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.020003,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.060072,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.090244,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.01,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.192337,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.202733,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.15114,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.030009,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.01,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.050042,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.080171,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.040021,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.020003,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.202733,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.223656,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.181983,0.000838,0.028948,10141,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.040215,0.002088,0.045695,10142,2013,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.022775,0.002732,0.052269,10142,2013,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.068248,0.001185,0.034424,10142,2013,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.06085,0.001577,0.039711,10142,2013,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.028157,0.001553,0.039408,10142,2013,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.033215,0.001046,0.032342,10142,2013,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.092505,0.002632,0.051303,10142,2013,,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.234281,0.004926,0.070185,10142,2013,,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.007909,0.003289,0.05735,10142,2013,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.060072,0.001031,0.032109,10143,2003,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.287682,0.001031,0.032109,10143,2003,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.020003,0.001031,0.032109,10143,2003,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.13074,0.001031,0.032109,10143,2003,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.261609,0.004329,0.065795,10144,2004,United States,Correlation,Islamist,Outgroup Hostility
+0.298566,0.001689,0.041097,10145,2019,United States,Longitudinal,Islamist,Outgroup Hostility
+0.060072,0.001689,0.041097,10145,2019,United States,Longitudinal,Islamist,Outgroup Hostility
+0.223656,0.001689,0.041097,10145,2019,United States,Correlation,Islamist,Outgroup Hostility
+0.255413,0.001689,0.041097,10145,2019,United States,Longitudinal,Islamist,Rally Effects
+0.234189,0.001689,0.041097,10145,2019,United States,Longitudinal,Islamist,Rally Effects
+0.192337,0.001689,0.041097,10145,2019,United States,Correlation,Islamist,Rally Effects
+0.276864,0.001689,0.041097,10145,2019,United States,Longitudinal,Islamist,Conservatism
+0.030009,0.001689,0.041097,10145,2019,United States,Longitudinal,Islamist,Conservatism
+0.223656,0.001689,0.041097,10145,2019,United States,Correlation,Islamist,Conservatism
+0.246685,0.001689,0.041097,10145,2019,United States,Longitudinal,Islamist,Conservatism
+0.026506,0.001689,0.041097,10145,2019,United States,Longitudinal,Islamist,Conservatism
+0.096902,0.001689,0.041097,10145,2019,United States,Correlation,Islamist,Conservatism
+-0.007069,0.000883,0.029715,10146,2018,,Correlation,Other,Conservatism
+0.005498,0.000883,0.029715,10146,2018,,Correlation,Other,Conservatism
+-0.021991,0.000883,0.029715,10146,2018,,Correlation,Other,Conservatism
+0.154257,0.00346,0.058822,10147,2018,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.0649,0.00346,0.058822,10147,2018,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.02997,0.00346,0.058822,10147,2018,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.208313,0.00346,0.058822,10147,2018,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.073041,0.000499,0.022338,10148,2017,United States,Correlation,No Ideology,Conservatism
+0.023716,0.000883,0.029715,10148,2017,United States,Correlation,No Ideology,Conservatism
+0.129046,0.001149,0.033897,10148,2017,United States,Correlation,No Ideology,Conservatism
+0.063839,0.02,0.141421,10149,2015,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.038654,0.02,0.141421,10149,2015,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.100335,0.00103,0.032094,10150,2017,,Longitudinal,Other,Rally Effects
+0.123092,0.001381,0.037162,10150,2017,,Longitudinal,Other,Rally Effects
+-0.139906,0.000964,0.031048,10151,2008,Other: Western,Correlation,No Ideology,Rally Effects
+-0.03902,0.000964,0.031048,10151,2008,Other: Western,Correlation,No Ideology,Rally Effects
+-0.143987,0.000964,0.031048,10151,2008,Other: Western,Correlation,No Ideology,Rally Effects
+-0.095287,0.000964,0.031048,10151,2008,Other: Western,Correlation,No Ideology,Rally Effects
+-0.127689,0.000964,0.031048,10151,2008,Other: Western,Correlation,No Ideology,Rally Effects
+-0.150118,0.000964,0.031048,10151,2008,Other: Western,Correlation,No Ideology,Rally Effects
+0.609706,0.003175,0.056347,10152,2006,United States,Correlation,No Ideology,Conservatism
+-0.21493,0.003175,0.056347,10152,2006,United States,Correlation,No Ideology,Conservatism
+0.234189,0.004464,0.066813,10153,2012,United States,Correlation,No Ideology,Conservatism
+0.129113,0.001555,0.039433,10153,2012,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.30952,0.001996,0.044677,10154,2007,Israel,Correlation,No Ideology,Conservatism
+0.213171,0.001996,0.044677,10154,2007,Israel,Correlation,No Ideology,Conservatism
+0.522984,0.001996,0.044677,10155,2008,Israel,Correlation,Islamist,Conservatism
+0.388423,0.001996,0.044677,10155,2008,Israel,Correlation,Islamist,Outgroup Hostility
+0.56273,0.001996,0.044677,10155,2008,Israel,Correlation,Islamist,Conservatism
+0.447692,0.002008,0.044811,10155,2008,Israel,Correlation,Islamist,Outgroup Hostility
+0.354093,0.002008,0.044811,10155,2008,Israel,Correlation,Islamist,Outgroup Hostility
+0.604156,0.002008,0.044811,10155,2008,Israel,Correlation,Islamist,Conservatism
+0.53606,0.001996,0.044677,10156,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.100335,0.001996,0.044677,10156,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.53606,0.001996,0.044677,10156,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.276864,0.001996,0.044677,10156,2009,Israel,Correlation,Islamist,Outgroup Hostility
+0.604156,0.001996,0.044677,10156,2009,Israel,Correlation,Islamist,Conservatism
+0.040021,0.001996,0.044677,10156,2009,Israel,Correlation,Islamist,Conservatism
+0.522984,0.002008,0.044811,10157,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.052669,0.005051,0.07107,10157,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.043591,0.005263,0.072547,10157,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.105463,0.005025,0.070887,10157,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.041609,0.005102,0.071428,10157,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.185178466226212,0.005181408324,0.071982,10158,2007,United States,(Quasi)Experiment,Islamist,Rally Effects
+-0.228917,0.000388,0.019698,10159,2006,,Correlation,Islamist,Outgroup Hostility
+0.060072,0.000388,0.019698,10159,2006,,Correlation,Islamist,Outgroup Hostility
+-0.088228,0.000388,0.019698,10159,2006,,Correlation,Islamist,Conservatism
+-0.094278,0.001905,0.043646,10159,2006,,Correlation,Islamist,Outgroup Hostility
+-0.090244,0.001905,0.043646,10159,2006,,Correlation,Islamist,Outgroup Hostility
+-0.321652,0.001905,0.043646,10159,2006,,Correlation,Islamist,Conservatism
+0.205729,0.000923,0.030381,10160,2012,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.030009,0.003096,0.055642,10161,2009,Other: Western,Correlation,Islamist,Conservatism
+0.040021,0.003096,0.055642,10161,2009,Other: Western,Correlation,Islamist,Conservatism
+0.030009,0.003096,0.055642,10161,2009,Other: Western,Correlation,Islamist,Outgroup Hostility
+-0.040021,0.003096,0.055642,10161,2009,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.0075,0.007874,0.088736,10162,2008,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.223475,0.011494,0.10721,10162,2008,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.14306,0.007752,0.088045,10162,2008,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.165879,0.007874,0.088736,10162,2008,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.173942,0.003922,0.062626,10163,2006,United States,(Quasi)Experiment,Islamist,Rally Effects
+-0.041005,0.002237,0.047297,10163,2006,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.272058,0.003922,0.062626,10163,2006,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.02553,0.002237,0.047297,10163,2006,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.187118,0.005747,0.075809,10164,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.277381,0.019608,0.140029,10164,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.155415,0.008333,0.091285,10164,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.123391,0.005747,0.075809,10164,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.164906,0.019608,0.140029,10164,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.071374,0.008333,0.091285,10164,2007,United States,(Quasi)Experiment,Islamist,Conservatism
+0.261058,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.111652,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.699859,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.160906,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.46651,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.447542,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.037923,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.117563,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.149502,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.102308,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.091226,0.007353,0.08575,10165,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+-0.30952,0.003106,0.055731,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.202733,0.003106,0.055731,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.342828,0.003106,0.055731,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.276864,0.003106,0.055731,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.342828,0.003546,0.059548,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.298566,0.003546,0.059548,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.331647,0.003546,0.059548,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.298566,0.003546,0.059548,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.090244,0.002222,0.047138,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.110447,0.002222,0.047138,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.090244,0.002222,0.047138,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.100335,0.002222,0.047138,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.244774,0.002315,0.048114,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.15114,0.002315,0.048114,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.213171,0.002315,0.048114,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+-0.140926,0.002315,0.048114,10166,2019,Other: Western,Correlation,Extreme Right,Rally Effects
+0.213171,0.000668,0.025846,10167,2016,Israel,Correlation,Other,Outgroup Hostility
+0.15114,0.000668,0.025846,10167,2016,Israel,Longitudinal,Other,Outgroup Hostility
+0.255413,0.000668,0.025846,10167,2016,Israel,Longitudinal,Other,Outgroup Hostility
+0.031062,0.004464,0.066813,10168,2017,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.346631,0.037037,0.19245,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.190819,0.034483,0.185696,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.483152,0.037037,0.19245,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.22259,0.038462,0.196117,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.308921,0.04,0.2,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.403934,0.037037,0.19245,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.236064,0.034483,0.185696,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.440057,0.037037,0.19245,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.289837,0.038462,0.196117,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.286216,0.04,0.2,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.217962,0.037037,0.19245,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.074778,0.034483,0.185696,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.410621,0.037037,0.19245,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.143746,0.038462,0.196117,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.288145,0.04,0.2,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.484016,0.037037,0.19245,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.294675,0.034483,0.185696,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.454636,0.037037,0.19245,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.136264,0.038462,0.196117,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.2297,0.04,0.2,10169,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.109094,0.000173,0.013153,10170,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.093486,0.000175,0.013229,10170,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.376886,0.004975,0.070534,10171,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.202733,0.004975,0.070534,10171,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.192337,0.004975,0.070534,10171,2018,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.472231,0.00495,0.070356,10171,2018,United States,Correlation,Islamist,Outgroup Hostility
+0.472231,0.00495,0.070356,10171,2018,United States,Correlation,Islamist,Outgroup Hostility
+0.4118,0.00495,0.070356,10171,2018,United States,Correlation,Islamist,Outgroup Hostility
+0.223656,0.001709,0.04134,10172,2013,Other: Western,Correlation,No Ideology,Conservatism
+0.298566,0.001709,0.04134,10172,2013,Other: Western,Correlation,No Ideology,Conservatism
+0.365444,0.001709,0.04134,10172,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.53606,0.001709,0.04134,10172,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.365444,0.001709,0.04134,10172,2013,Other: Western,Correlation,No Ideology,Conservatism
+0.30952,0.001709,0.04134,10172,2013,Other: Western,Correlation,No Ideology,Conservatism
+0.472231,0.001709,0.04134,10172,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.647523,0.001709,0.04134,10172,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.140926,0.003367,0.058026,10173,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.522984,0.003367,0.058026,10173,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.53606,0.003367,0.058026,10173,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.244774,0.001255,0.035426,10173,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.522984,0.001255,0.035426,10173,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.57634,0.001255,0.035426,10173,2013,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.234189,0.001255,0.035426,10173,2013,Other: Western,Correlation,No Ideology,Conservatism
+0.244774,0.001255,0.035426,10173,2013,Other: Western,Correlation,No Ideology,Conservatism
+0.223656,0.001255,0.035426,10173,2013,Other: Western,Correlation,No Ideology,Conservatism
+0.13074,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+-0.01,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.040021,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+-0.100335,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.15114,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.090244,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.090244,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.100335,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.070115,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.030009,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.050042,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.030009,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.266108,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.213171,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.266108,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.090244,0.005051,0.07107,10174,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.125955,0.001036,0.032187,10175,2019,Other: Western,(Quasi)Experiment,No Ideology,Rally Effects
+0.079454,0.001022,0.031969,10175,2019,Other: Western,(Quasi)Experiment,No Ideology,Rally Effects
+0.164946,0.00103,0.032094,10175,2019,Other: Western,(Quasi)Experiment,No Ideology,Rally Effects
+0.09483,0.001024,0.032,10175,2019,Other: Western,(Quasi)Experiment,No Ideology,Rally Effects
+-0.9071,0.010753,0.103697,10176,2014,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.99,0.010753,0.103697,10176,2014,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.32809,0.010753,0.103697,10176,2014,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.281795,0.011628,0.107833,10176,2014,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.192064,0.000178,0.013342,10177,2017,,Correlation,Islamist,Conservatism
+-0.078643,0.002646,0.051439,10178,2006,Israel,(Quasi)Experiment,Islamist,Rally Effects
+-0.03129,0.002646,0.051439,10178,2006,Israel,(Quasi)Experiment,Islamist,Rally Effects
+0.014278,0.021277,0.145866,10179,2010,Other: Western,Correlation,No Ideology,Rally Effects
+0.06678,0.003984,0.063119,10180,2019,United States,Correlation,Islamist,Rally Effects
+0.089042,0.003984,0.063119,10180,2019,United States,Correlation,Islamist,Rally Effects
+0.15148,0.003984,0.063119,10180,2019,United States,Correlation,Islamist,Conservatism
+0.097417,0.015873,0.125988,10180,2019,Israel,Longitudinal,Islamist,Conservatism
+0.151198,0.003774,0.061433,10180,2019,Israel,Correlation,Islamist,Conservatism
+0.299658,0.005,0.070711,10180,2019,Other: Western,Correlation,Islamist,Conservatism
+0.236302,0.005,0.070711,10180,2019,Other: Western,Correlation,Islamist,Conservatism
+0.169608,0.005,0.070711,10180,2019,Other: Western,Correlation,Islamist,Conservatism
+0.459897,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.298566,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.298566,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+0.15114,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.090244,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.110447,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+0.30952,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.320545,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.110447,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+0.181983,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.171667,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.080171,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+0.161387,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.234189,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+0,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Conservatism
+0.120581,0.009346,0.096675,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.13074,0.009346,0.096675,10181,2005,United States,Correlation,Islamist,Conservatism
+-0.040021,0.009346,0.096675,10181,2005,United States,Correlation,Islamist,Conservatism
+0.213171,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Outgroup Hostility
+-0.181983,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Outgroup Hostility
+-0.100335,0.008547,0.09245,10181,2005,United States,Correlation,Islamist,Outgroup Hostility
+0.223656,0.009091,0.095347,10182,2008,United States,Correlation,No Ideology,Rally Effects
+0.223656,0.009091,0.095347,10182,2008,United States,Correlation,No Ideology,Rally Effects
+0.181983,0.009091,0.095347,10182,2008,United States,Correlation,No Ideology,Conservatism
+0.181983,0.006135,0.078326,10182,2008,United States,Correlation,No Ideology,Rally Effects
+0.161387,0.006135,0.078326,10182,2008,United States,Correlation,No Ideology,Rally Effects
+0.070115,0.006135,0.078326,10182,2008,United States,Correlation,No Ideology,Conservatism
+0.080171,0.006135,0.078326,10182,2008,United States,Correlation,No Ideology,Conservatism
+0.250403,0.008696,0.093252,10183,2013,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.140954,0.008696,0.093252,10183,2013,United States,(Quasi)Experiment,Other,Outgroup Hostility
+0.200688,0.008264,0.090907,10183,2013,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.184934,0.008264,0.090907,10183,2013,United States,(Quasi)Experiment,Other,Outgroup Hostility
+0.342682,0.010101,0.100504,10183,2013,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.099106,0.010101,0.100504,10183,2013,United States,(Quasi)Experiment,Other,Outgroup Hostility
+0.460452,0.009346,0.096675,10183,2013,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.246143,0.009346,0.096675,10183,2013,United States,(Quasi)Experiment,Other,Outgroup Hostility
+0.218263,0.005076,0.071246,10183,2013,United States,(Quasi)Experiment,Other,Outgroup Hostility
+0.126938,0.006803,0.08248,10183,2013,United States,(Quasi)Experiment,Other,Outgroup Hostility
+0.242613,0.010309,0.101533,10183,2013,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.242613,0.005076,0.071246,10183,2013,United States,(Quasi)Experiment,Other,Outgroup Hostility
+0.139547,0.010309,0.101533,10183,2013,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.271647,0.005076,0.071246,10183,2013,United States,(Quasi)Experiment,Other,Outgroup Hostility
+0.154386,0.005076,0.071246,10183,2013,United States,(Quasi)Experiment,Other,Outgroup Hostility
+0.228019,0.010309,0.101533,10183,2013,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.15114,0.001404,0.03747,10184,2017,United States,Correlation,Islamist,Conservatism
+0.050042,0.001404,0.03747,10184,2017,United States,Correlation,Islamist,Conservatism
+-0.030009,0.001404,0.03747,10184,2017,United States,Correlation,Islamist,Conservatism
+0.244774,0.005076,0.071246,10184,2017,United States,Correlation,Islamist,Rally Effects
+0.365444,0.005076,0.071246,10184,2017,United States,Correlation,Islamist,Outgroup Hostility
+0.331647,0.005076,0.071246,10184,2017,United States,Correlation,Islamist,Outgroup Hostility
+0.213171,0.005076,0.071246,10184,2017,United States,Correlation,Islamist,Conservatism
+0.205739,0.005128,0.07161,10184,2017,United States,Correlation,Islamist,Outgroup Hostility
+0.162124,0.005128,0.07161,10184,2017,United States,Correlation,Islamist,Outgroup Hostility
+0.148692,0.005128,0.07161,10184,2017,United States,Correlation,Islamist,Conservatism
+0.495419,0.000358,0.018921,10185,2009,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.00578,2.7e-05,0.005196,10186,2015,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.007713,2.7e-05,0.005196,10186,2015,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.342828,0.012987,0.113961,10187,2011,,Correlation,No Ideology,Rally Effects
+0.276864,0.012987,0.113961,10187,2011,,Correlation,No Ideology,Conservatism
+0.070115,0.007353,0.08575,10187,2011,,Correlation,No Ideology,Rally Effects
+0.354093,0.007353,0.08575,10187,2011,,Correlation,No Ideology,Conservatism
+0.189585,0.00241,0.049092,10188,2006,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.203122,0.012658,0.112508,10189,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.230388,0.012658,0.112508,10189,2014,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.185688,0.012658,0.112508,10189,2014,Israel,(Quasi)Experiment,Islamist,Rally Effects
+0.066091,0.000211,0.014526,10190,2010,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.021713,0.000719,0.026814,10190,2010,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.335562,0.003413,0.058421,10191,2008,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.349041,0.003413,0.058421,10191,2008,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.409635,0.003413,0.058421,10191,2008,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.34846,0.003413,0.058421,10191,2008,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.305729,0.003413,0.058421,10191,2008,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.361332306537784,0.0086955625,0.09325,10192,2016,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.184621721807787,0.009345862276,0.096674,10192,2016,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.489072120918944,0.0086955625,0.09325,10192,2016,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.320110502343223,0.009345862276,0.096674,10192,2016,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.260199337574728,0.0086955625,0.09325,10192,2016,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.269622507341748,0.009345862276,0.096674,10192,2016,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.0205294676689707,0.0086955625,0.09325,10192,2016,Israel,(Quasi)Experiment,Islamist,Conservatism
+-0.392925132587311,0.009345862276,0.096674,10192,2016,Israel,(Quasi)Experiment,Islamist,Conservatism
+0.245830762065148,0.0086955625,0.09325,10192,2016,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.334414028913716,0.009345862276,0.096674,10192,2016,Israel,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.145941,0.006993,0.083624,10193,2010,United States,Correlation,No Ideology,Rally Effects
+0.19478,0.006993,0.083624,10193,2010,United States,Correlation,No Ideology,Rally Effects
+0.569358,0.0125,0.111803,10194,2013,United States,(Quasi)Experiment,Other,Conservatism
+0.223656,0.001661,0.040755,10195,2005,United States,Correlation,No Ideology,Conservatism
+0.15114,0.001661,0.040755,10195,2005,United States,Correlation,No Ideology,Rally Effects
+0.140926,0.001661,0.040755,10195,2005,United States,Correlation,No Ideology,Outgroup Hostility
+0.161387,0.001661,0.040755,10195,2005,United States,Correlation,No Ideology,Rally Effects
+0.202733,0.001661,0.040755,10195,2005,United States,Correlation,No Ideology,Rally Effects
+0.13074,0.001661,0.040755,10195,2005,United States,Correlation,No Ideology,Rally Effects
+0.171667,0.001661,0.040755,10195,2005,United States,Correlation,No Ideology,Conservatism
+0.223656,0.001661,0.040755,10195,2005,United States,Correlation,No Ideology,Rally Effects
+-0.120581,0.001661,0.040755,10195,2005,United States,Correlation,No Ideology,Conservatism
+0.080171,0.001828,0.042755,10196,2006,United States,Correlation,Islamist,Conservatism
+0.192337,0.001828,0.042755,10196,2006,United States,Correlation,Islamist,Conservatism
+0.192337,0.001828,0.042755,10196,2006,United States,Correlation,Islamist,Conservatism
+-0.161387,0.001828,0.042755,10196,2006,United States,Correlation,Islamist,Conservatism
+0.354093,0.001828,0.042755,10196,2006,United States,Correlation,Islamist,Conservatism
+0.020003,0.001828,0.042755,10196,2006,United States,Correlation,Islamist,Conservatism
+0.100335,0.001828,0.042755,10196,2006,United States,Correlation,Islamist,Conservatism
+0.192337,0.001828,0.042755,10196,2006,United States,Correlation,Islamist,Conservatism
+0.376886,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Rally Effects
+0.30952,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Rally Effects
+0.40006,0.001828,0.042755,10197,2004,United States,Longitudinal,No Ideology,Rally Effects
+-0.070115,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Conservatism
+-0.110447,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Conservatism
+-0.090244,0.001828,0.042755,10197,2004,United States,Longitudinal,No Ideology,Conservatism
+0.213171,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Rally Effects
+0.202733,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Rally Effects
+0.171667,0.001828,0.042755,10197,2004,United States,Longitudinal,No Ideology,Rally Effects
+0.120581,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Outgroup Hostility
+0.266108,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Outgroup Hostility
+0.202733,0.001828,0.042755,10197,2004,United States,Longitudinal,No Ideology,Outgroup Hostility
+0.140926,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Outgroup Hostility
+0.13074,0.001828,0.042755,10197,2004,United States,Longitudinal,Islamist,Outgroup Hostility
+0.161387,0.001828,0.042755,10197,2004,United States,Longitudinal,No Ideology,Outgroup Hostility
+0.025226,0.000889,0.029816,10198,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.020242,0.000955,0.030903,10198,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.042754,0.000897,0.02995,10198,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.026369,0.000904,0.030067,10198,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.041557,0.001021,0.031953,10198,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.002178,0.000301,0.017349,10198,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.002178,0.000301,0.017349,10198,2019,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.046093,0.000535,0.02313,10199,2018,Other: Western,Longitudinal,Extreme Right,Outgroup Hostility
+-0.013721,0.000535,0.02313,10199,2018,Other: Western,Longitudinal,Extreme Right,Outgroup Hostility
+0.267181,0.003289,0.05735,10200,2005,Israel,Correlation,Islamist,Conservatism
+0.156259,0.003759,0.061311,10200,2005,Israel,Correlation,Islamist,Conservatism
+-0.063084,0.006211,0.07881,10200,2005,Israel,Correlation,Islamist,Conservatism
+-0.168579,0.003289,0.05735,10200,2005,Israel,Correlation,Islamist,Conservatism
+-0.018002,0.003759,0.061311,10200,2005,Israel,Correlation,Islamist,Conservatism
+-0.174758,0.006211,0.07881,10200,2005,Israel,Correlation,Islamist,Conservatism
+0.118593,0.005525,0.07433,10201,2019,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0,0.005525,0.07433,10201,2019,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.228019,0.016393,0.128035,10202,2015,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.52548,0.016393,0.128035,10202,2015,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.076335,0.00065,0.025495,10203,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.121606,0.00065,0.025495,10203,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.080721,0.00065,0.025495,10203,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.06929,0.00065,0.025495,10203,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.085088,0.00065,0.025495,10203,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.18612,0.014085,0.11868,10204,2017,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.051044,0.014085,0.11868,10204,2017,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.023581,0.004202,0.064823,10205,2015,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.007827,0.008264,0.090907,10205,2015,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+-0.077209,0.008772,0.093659,10205,2015,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.076392,0.006711,0.081921,10205,2015,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.0441,0.014085,0.11868,10205,2015,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+-0.096996,0.013333,0.115469,10205,2015,United States,(Quasi)Experiment,No Ideology,Outgroup Hostility
+0.07487,0.001239,0.035199,10206,2011,United States,Correlation,Islamist,Conservatism
+-0.024299,0.001239,0.035199,10206,2011,United States,Correlation,Islamist,Outgroup Hostility
+0.02657,0.001239,0.035199,10206,2011,United States,Correlation,Islamist,Conservatism
+-0.020143,0.001239,0.035199,10206,2011,United States,Correlation,Islamist,Outgroup Hostility
+0.061663,0.001239,0.035199,10206,2011,United States,Correlation,Islamist,Conservatism
+-0.0976,0.001239,0.035199,10206,2011,United States,Correlation,Islamist,Outgroup Hostility
+-0.032968,0.008696,0.093252,10207,2018,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.034814,0.009091,0.095347,10207,2018,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.19768,0.004255,0.06523,10208,2017,United States,(Quasi)Experiment,Islamist,Conservatism
+0.282768,0.008547,0.09245,10208,2017,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.07326,0.007634,0.087373,10208,2017,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.192337,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Conservatism
+0.459897,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Conservatism
+0.213171,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Conservatism
+0.51007,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.171667,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.234189,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Conservatism
+0.40006,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Conservatism
+0.255413,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Conservatism
+0.365444,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.040021,0.002755,0.052488,10209,2019,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.245547,0.014925,0.122168,10210,2011,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.20586,0.003546,0.059548,10211,2017,Other: Western,Correlation,Other,Outgroup Hostility
+0.206903,0.003546,0.059548,10211,2017,Other: Western,Correlation,Other,Outgroup Hostility
+0.222605,0.003546,0.059548,10211,2017,Other: Western,Correlation,Other,Outgroup Hostility
+-0.023004,0.003546,0.059548,10211,2017,Other: Western,Correlation,Other,Conservatism
+0.034013,0.00495,0.070356,10211,2017,,Correlation,Other,Outgroup Hostility
+-0.004,0.00495,0.070356,10211,2017,,Correlation,Other,Outgroup Hostility
+-0.075141,0.00495,0.070356,10211,2017,,Correlation,Other,Outgroup Hostility
+-0.05305,0.00495,0.070356,10211,2017,,Correlation,Other,Outgroup Hostility
+0.050042,0.00495,0.070356,10211,2017,,Correlation,Other,Outgroup Hostility
+0.003,0.00495,0.070356,10211,2017,,Correlation,Other,Outgroup Hostility
+0.015001,0.00495,0.070356,10211,2017,,Correlation,Other,Outgroup Hostility
+0.016001,0.00495,0.070356,10211,2017,,Correlation,Other,Outgroup Hostility
+-0.137867,0.00495,0.070356,10211,2017,,Correlation,Other,Conservatism
+-0.170637,0.00495,0.070356,10211,2017,,Correlation,Other,Conservatism
+0.282326,0.013333,0.115469,10212,2007,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.179996,0.006757,0.082201,10212,2007,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.115672,0.027027,0.164399,10212,2007,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.441721,0.028571,0.16903,10212,2007,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.134679,0.028571,0.16903,10212,2007,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.181928,0.021277,0.145866,10212,2007,Other: Western,(Quasi)Experiment,No Ideology,Rally Effects
+0.356735,0.006579,0.081111,10213,2015,Other: Western,Correlation,No Ideology,Conservatism
+0.409662,0.006579,0.081111,10213,2015,Other: Western,Correlation,No Ideology,Conservatism
+0.180728,0.006579,0.081111,10213,2015,Other: Western,Correlation,No Ideology,Conservatism
+0.217237,0.006579,0.081111,10213,2015,Other: Western,Correlation,No Ideology,Conservatism
+0.257383,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.343498,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.319375,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.387327,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.255211,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.261707,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.173791,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.238674,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.259447,0.006579,0.081111,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.354754,0.006579,0.081111,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.123368,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.242683,0.006623,0.081382,10213,2015,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.0643792149274292,0.005917147929,0.076923,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.0926492758572496,0.005917147929,0.076923,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.033957302908708,0.005917147929,0.076923,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.00410115789548861,0.005917147929,0.076923,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.0305468152992903,0.005917147929,0.076923,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.0492157260760239,0.005917147929,0.076923,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.137621123121711,0.007246435876,0.085126,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.175209485469696,0.007246435876,0.085126,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.0440236935629554,0.007246435876,0.085126,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.0950568722615109,0.007246435876,0.085126,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.145277914569338,0.007246435876,0.085126,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.0527407101743702,0.007246435876,0.085126,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.0896990070753019,0.013698595681,0.117041,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.0371978805955381,0.013698595681,0.117041,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.0466525060069532,0.013698595681,0.117041,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0,0.013698595681,0.117041,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.179943397910186,0.016949175721,0.130189,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.0700865931979275,0.016949175721,0.130189,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+-0.121310893635964,0.016949175721,0.130189,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.186778317549699,0.013698595681,0.117041,10214,2019,Other: Western,Longitudinal,Islamist,Outgroup Hostility
+0.041385,0.000493,0.022204,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.08773,0.000493,0.022204,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.075535,0.000493,0.022204,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.007107,0.000493,0.022204,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.01598,0.000493,0.022204,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.059224,0.000493,0.022204,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.036692,0.000493,0.022204,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.071858,0.00129,0.035917,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.180608,0.00129,0.035917,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.141134,0.00129,0.035917,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.001942,0.00129,0.035917,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.058102,0.00129,0.035917,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.112278,0.00129,0.035917,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.0072,0.00129,0.035917,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.028935,0.00146,0.03821,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.01949,0.00146,0.03821,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.028715,0.00146,0.03821,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.018799,0.00146,0.03821,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.037262,0.00146,0.03821,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.019295,0.00146,0.03821,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+-0.090859,0.000772,0.027785,10215,2016,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.228095,0.003436,0.058617,10216,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.020894,0.002532,0.050319,10216,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.033755,0.002532,0.050319,10216,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.014534,0.002532,0.050319,10216,2020,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.0512958924123345,0.000298045696,0.017264,10217,2018,Other: Western,Longitudinal,Islamist,Rally Effects
+-0.13074,0.000676,0.026,10217,2018,Other: Western,Longitudinal,Islamist,Rally Effects
+0.161387,0.000671,0.025904,10217,2018,Other: Western,Longitudinal,Islamist,Rally Effects
+-0.020003,4.1e-05,0.006403,10217,2018,Other: Western,Correlation,Islamist,Rally Effects
+0.01,4.2e-05,0.006481,10217,2018,Other: Western,Correlation,Islamist,Rally Effects
+0.050042,4.1e-05,0.006403,10217,2018,Other: Western,Correlation,Islamist,Rally Effects
+0.040021,4.2e-05,0.006481,10217,2018,Other: Western,Correlation,Islamist,Rally Effects
+-0.04503,4.1e-05,0.006403,10218,2019,Other: Western,Correlation,Islamist,Rally Effects
+0.176614,4.1e-05,0.006403,10218,2019,Other: Western,Correlation,Islamist,Conservatism
+0.104175,4.4e-05,0.006633,10218,2019,Other: Western,Correlation,Islamist,Conservatism
+0.123626,4.1e-05,0.006403,10218,2019,Other: Western,Correlation,Islamist,Rally Effects
+-0.13074,4.1e-05,0.006403,10218,2019,Other: Western,Correlation,Islamist,Rally Effects
+0.242335,4.1e-05,0.006403,10218,2019,Other: Western,Correlation,Islamist,Conservatism
+0.260967,4.4e-05,0.006633,10218,2019,Other: Western,Correlation,Islamist,Conservatism
+0.145008,4.1e-05,0.006403,10218,2019,Other: Western,Correlation,Islamist,Rally Effects
+0.070115,4.7e-05,0.006856,10219,2019,Other: Western,Correlation,Islamist,Conservatism
+0.234189,4.7e-05,0.006856,10219,2019,Other: Western,Correlation,Islamist,Conservatism
+0.0352582207154381,0.000349764804,0.018702,10220,2018,Other: Western,Correlation,Islamist,Conservatism
+0.30621,0.000703,0.026514,10220,2018,Other: Western,Correlation,Islamist,Conservatism
+0.142777,0.000698,0.02642,10220,2018,Other: Western,Correlation,Islamist,Conservatism
+0.002349,0.00035,0.018708,10220,2018,Other: Western,Correlation,Islamist,Conservatism
+0.004808,0.002024,0.044989,10221,2010,Other: Western,Correlation,Islamist,Rally Effects
+0.087801,0.007519,0.086712,10222,2016,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.020003,3.8e-05,0.006164,10223,2019,Other: Western,Correlation,No Ideology,Conservatism
+0.030009,3.8e-05,0.006164,10223,2019,Other: Western,Correlation,No Ideology,Conservatism
+0.038178,0.007874,0.088736,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.083727,0.007874,0.088736,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.083554,0.007874,0.088736,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.135028,0.007874,0.088736,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.001203,0.009434,0.097129,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.001203,0.009434,0.097129,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.001215,0.009615,0.098056,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.001215,0.009615,0.098056,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.041204,0.004329,0.065795,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.001043,0.007042,0.083917,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.050435,0.004329,0.065795,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.058909,0.007042,0.083917,10223,2019,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.001283,0.010753,0.103697,10223,2019,,(Quasi)Experiment,Islamist,Rally Effects
+0.178865,0.011236,0.106,10223,2019,,(Quasi)Experiment,Islamist,Rally Effects
+0.088962,0.010753,0.103697,10223,2019,,(Quasi)Experiment,Islamist,Rally Effects
+0.118903,0.011236,0.106,10223,2019,,(Quasi)Experiment,Islamist,Rally Effects
+0.320545,0.020408,0.142857,10224,2010,Israel,Correlation,Other,Conservatism
+0.223656,0.020408,0.142857,10224,2010,Israel,Correlation,Other,Outgroup Hostility
+0.17287,0.015152,0.123093,10225,2017,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.18928,0.015873,0.125988,10225,2017,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.192337,0.000835,0.028896,10226,2019,Other: Western,Correlation,No Ideology,Conservatism
+0.266108,0.000835,0.028896,10226,2019,Other: Western,Correlation,Islamist,Conservatism
+0.423649,0.000835,0.028896,10226,2019,Other: Western,Correlation,No Ideology,Conservatism
+0.549306,0.000835,0.028896,10226,2019,Other: Western,Correlation,Islamist,Conservatism
+0.276864,0.000835,0.028896,10226,2019,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.435611,0.000835,0.028896,10226,2019,Other: Western,Correlation,Islamist,Outgroup Hostility
+0.069347,0.008197,0.090537,10227,2015,United States,(Quasi)Experiment,Islamist,Conservatism
+0.182268,0.008197,0.090537,10227,2015,United States,(Quasi)Experiment,Islamist,Conservatism
+0.014523,0.000996,0.031559,10228,2019,United States,(Quasi)Experiment,No Ideology,Conservatism
+0,0.000991,0.03148,10228,2019,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.01573,0.000986,0.031401,10228,2019,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.014504,0.000983,0.031353,10228,2019,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.152302,0.001285,0.035847,10228,2019,United States,Correlation,No Ideology,Conservatism
+0.071527,0.001277,0.035735,10228,2019,United States,Correlation,No Ideology,Conservatism
+0.274341,0.001271,0.035651,10228,2019,United States,Correlation,No Ideology,Conservatism
+0.381464,0.001267,0.035595,10228,2019,United States,Correlation,No Ideology,Conservatism
+-0.051663,0.001287,0.035875,10228,2019,United States,Correlation,No Ideology,Conservatism
+-0.081595,0.001279,0.035763,10228,2019,United States,Correlation,No Ideology,Conservatism
+0.190708,0.001272,0.035665,10228,2019,United States,Correlation,No Ideology,Conservatism
+0.283952,0.001271,0.035651,10228,2019,United States,Correlation,No Ideology,Conservatism
+-0.022713,0.00111,0.033317,10228,2019,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.095686,0.001072,0.032741,10228,2019,United States,(Quasi)Experiment,No Ideology,Conservatism
+0.081525,0.001072,0.032741,10228,2019,United States,(Quasi)Experiment,No Ideology,Conservatism
+-0.001398,0.000782,0.027964,10229,2008,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.006415,0.000782,0.027964,10229,2008,United States,(Quasi)Experiment,Islamist,Rally Effects
+-0.031859,0.000782,0.027964,10229,2008,United States,(Quasi)Experiment,Islamist,Rally Effects
+0.202733,0.000836,0.028914,10230,2019,Other: Western,Correlation,No Ideology,Conservatism
+0.181983,0.000836,0.028914,10230,2019,Other: Western,Correlation,No Ideology,Rally Effects
+0.435611,0.000836,0.028914,10230,2019,Other: Western,Correlation,No Ideology,Outgroup Hostility
+0.497311,0.000836,0.028914,10230,2019,Other: Western,Correlation,No Ideology,Conservatism
+0.305238,0.019608,0.140029,10231,2008,Other: Western,(Quasi)Experiment,Other,Conservatism
+0.31552,0.021277,0.145866,10232,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.074763,0.021277,0.145866,10232,2009,United States,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.13324,0.027027,0.164399,10232,2009,Other: Western,(Quasi)Experiment,Islamist,Conservatism
+0.083569,0.027027,0.164399,10232,2009,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.306683,0.009901,0.099504,10232,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.216242,0.009901,0.099504,10232,2009,United States,(Quasi)Experiment,Islamist,Conservatism
+0.18845,0.002457,0.049568,10233,2017,United States,Correlation,No Ideology,Outgroup Hostility
+0.189553,0.002342,0.048394,10233,2017,United States,Correlation,No Ideology,Outgroup Hostility
+0.202733,0.001314,0.036249,10234,2018,Israel,Correlation,Other,Rally Effects
+0.040021,0.001314,0.036249,10234,2018,Israel,Correlation,Other,Rally Effects
+0.044853,0.003401,0.058318,10235,2018,Israel,(Quasi)Experiment,Other,Outgroup Hostility
+0.13074,0.008475,0.09206,10236,2019,Israel,Correlation,No Ideology,Conservatism
+0.100335,0.002288,0.047833,10236,2019,Israel,(Quasi)Experiment,Other,Conservatism
+0.13074,0.002288,0.047833,10236,2019,Israel,(Quasi)Experiment,Other,Conservatism
+0.223600148688845,0.000536478244,0.023162,10237,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.00627,0.000719,0.026814,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.006735,0.000715,0.026739,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.059783,0.000722,0.02687,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.027871,0.000718,0.026796,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.016608,0.000773,0.027803,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.015465,0.000724,0.026907,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.011269,0.000724,0.026907,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+-0.020223,0.000522,0.022847,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.015688,0.000519,0.022782,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.033947,0.000524,0.022891,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.002149,0.000522,0.022847,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+-0.004459,0.000572,0.023917,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Rally Effects
+0.023324,0.000524,0.022891,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
+0.033933,0.000527,0.022956,10238,2020,Other: Western,(Quasi)Experiment,Islamist,Outgroup Hostility
