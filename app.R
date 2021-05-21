@@ -5,7 +5,8 @@
 library(shiny)
 library(shinyWidgets)
 library(shinydashboard)
-library(metafor)
+library(tidyverse)
+
 
 metadata <- read_csv("metadata.csv") %>%
     select(ID_R, country, design, terrortype, outcome, Fisher, Variance_F, SE_F)
