@@ -16,7 +16,7 @@ reports <- read_csv("reports_data.csv") %>%
 ui <- fluidPage(
     
     
-    titlePanel("How Terrorism Does (Not) Affect Political Attitudes"),
+    titlePanel("How Terrorism Does (and Does Not) Affect Political Attitudes"),
     
     
     sidebarLayout(
