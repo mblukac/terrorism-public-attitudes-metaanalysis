@@ -8,7 +8,7 @@ library(shinydashboard)
 library(tidyverse)
 
 
-metadata <- read_csv("metadata.csv") %>%
+metadata <- read_csv("main_data.csv") %>%
     select(ID_R, country, design, terrortype, outcome, Fisher, Variance_F, SE_F)
 reports <- read_csv("reports_data.csv") %>%
     select(ID_R, No., `Author(s)`, Year, Title, Journal)
