@@ -23,7 +23,7 @@ ui <- fluidPage(
         # Inputs panel
         sidebarPanel(
             pickerInput("region", 
-                        label = h4("Region of study"),
+                        label = h4("Region of Study"),
                         choices = list("United States" = "United States",
                                        "Israel" = "Israel",
                                        "Other: Western" = "Other: Western",
