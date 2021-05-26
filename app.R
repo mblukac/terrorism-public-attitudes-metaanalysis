@@ -13,6 +13,7 @@ metadata <- read_csv("main_data.csv") %>%
     select(ID_R, country, design, terrortype, outcome, Fisher, Variance_F, SE_F)
 reports <- read_csv("reports_data.csv") %>%
     select(ID_R, No., `Author(s)`, Year, Title, Journal)
+estimates <- readRDS("all-estimates.rds")
 
 ui <- fluidPage(
     
@@ -116,6 +117,17 @@ server <- function(input, output) {
                    outcome %in% input$outcome)
     })
     
+    currentEst <- reactive({
+        isHere <- map(1:length(estimates), 
+                      function(x) estimates[[x]]$input %in% c(input$region, 
+                                                              input$design, 
+                                                              input$type, 
+                                                              input$outcome))
+        isHereFilter <- unlist(map(1:length(isHere), 
+                                   function(x) all(isHere[[x]] == T)))
+        as.numeric(paste(estimates[isHereFilter][[1]]$b))
+    })
+    
     # Render a data.table
     output$metadata_dt <- DT::renderDataTable({
         reports %>% 
@@ -127,7 +139,7 @@ server <- function(input, output) {
     
     output$metaplot <- renderPlot({
         
-        if(nrow(currentData()) != 0) {
+        if(nrow(currentData()) > 2) {
             currentData() %>%
                 arrange(Fisher) %>%
                 mutate(id = seq.int(nrow(currentData())),
@@ -139,7 +151,7 @@ server <- function(input, output) {
                 geom_linerange(aes(x = id, ymin = Fisher_lower, ymax = Fisher_upper),
                                color = "grey80", alpha = 0.2) +
                 geom_point(size = 0.7) +
-                geom_hline(yintercept = 0.1195298,
+                geom_hline(yintercept = currentEst(),
                            color = "turquoise3") +
                 coord_flip() +
                 theme_bw() +
@@ -153,8 +165,9 @@ server <- function(input, output) {
                     panel.grid.major.y = element_blank(),
                     panel.grid.minor.y = element_blank()
                 ) + ylab("Fisher's Z Correlation Coefficient") +
-                annotate("text", x = 1, y = 0.1195298,
-                         label = "0.1195", color = "turquoise3", hjust = -0.2)
+                annotate("text", x = 1, y = currentEst(),
+                         label = paste(round(currentEst(), 3)), 
+                         color = "turquoise3", hjust = -0.2)
         } else {
             ggplot(data = data.frame(x = 10, y = 10)) +
                 annotate("text", x = 5, y = 5, 
