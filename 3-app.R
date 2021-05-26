@@ -78,7 +78,7 @@ ui <- fluidPage(
                                  br(),
                                  div(class = "about",
                                      p("This meta-analysis takes stock of the quantitative literature on ", 
-                                       strong("public responses to terrorism"), ". 
+                                       strong("public responses to terrorism"),". 
                                        The dataset includes 320 studies conducted between 1985 and 2020 on more than 400,000 respondents from over 30 countries. This web application provides access to the data and options to ", 
                                        strong("explore heterogeneity"), 
                                        "in how people across the world react to different types of terrorism."),
