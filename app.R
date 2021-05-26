@@ -136,21 +136,24 @@ server <- function(input, output) {
                 geom_hline(yintercept = 0,
                            color = "black") +
                 geom_linerange(aes(x = id, ymin = Fisher_lower, ymax = Fisher_upper),
-                               color = "grey40", alpha = 0.2) +
+                               color = "grey80", alpha = 0.2) +
                 geom_point(size = 0.7) +
                 geom_hline(yintercept = 0.1195298,
-                           color = "red") +
+                           color = "turquoise3") +
                 coord_flip() +
-                theme_minimal() +
+                theme_bw() +
                 theme(
                     axis.title.y = element_blank(),
                     axis.ticks.y = element_blank(),
                     axis.text.y = element_blank(),
+                    axis.ticks.length.x = unit(0.5, "cm"),
+                    axis.text.x = element_text(size = (15)),
+                    axis.title.x = element_text(size = (18)),
                     panel.grid.major.y = element_blank(),
                     panel.grid.minor.y = element_blank()
-                ) + ylab("Fisher's Z") +
+                ) + ylab("Fisher's Z Correlation Coefficient") +
                 annotate("text", x = 1, y = 0.1195298,
-                         label = "0.1195", color = "red", hjust = -0.2)
+                         label = "0.1195", color = "turquoise3", hjust = -0.2)
         } else {
             ggplot(data = data.frame(x = 10, y = 10)) +
                 annotate("text", x = 5, y = 5, 
