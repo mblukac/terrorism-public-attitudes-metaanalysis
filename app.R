@@ -125,7 +125,12 @@ server <- function(input, output) {
                                                               input$outcome))
         isHereFilter <- unlist(map(1:length(isHere), 
                                    function(x) all(isHere[[x]] == T)))
-        as.numeric(paste(estimates[isHereFilter][[1]]$b))
+        isCorrectLength <- unlist(map(1:length(estimates),
+                               function(x) length(estimates[[x]]$input) == length(c(input$region, 
+                                                                                    input$design, 
+                                                                                    input$type, 
+                                                                                    input$outcome))))
+        as.numeric(paste(estimates[isHereFilter & isCorrectLength][[1]]$b))
     })
     
     # Render a data.table
