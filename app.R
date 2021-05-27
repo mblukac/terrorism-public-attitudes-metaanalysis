@@ -79,7 +79,7 @@ ui <- fluidPage(
                                  br(),
                                  div(class = "about",
                                      p("This meta-analysis takes stock of the quantitative literature on ", 
-                                       strong("public responses to terrorism"), ". 
+                                       strong("public responses to terrorism"),". 
                                        The dataset includes 320 studies conducted between 1985 and 2020 on more than 400,000 respondents from over 30 countries. This web application provides access to the data and options to ", 
                                        strong("explore heterogeneity"), 
                                        "in how people across the world react to different types of terrorism."),
@@ -171,7 +171,7 @@ server <- function(input, output) {
                     panel.grid.minor.y = element_blank()
                 ) + ylab("Fisher's Z Correlation Coefficient") +
                 annotate("text", x = 1, y = currentEst(),
-                         label = paste(round(currentEst(), 3)), 
+                         label = paste(round(currentEst(), 6)), 
                          color = "turquoise3", hjust = -0.2)
         } else {
             ggplot(data = data.frame(x = 10, y = 10)) +
