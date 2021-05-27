@@ -36,6 +36,7 @@ for(lst in 1:length(set)){
     if(nrow(temp_data) < 2){
       estimate <- NA
     } else {
+      set.seed(1234)
       meta_fast <- rma.mv(y=Fisher, V=Variance_F,
                           random = ~ 1 | ID_R/ID_ES_Unique, 
                           data = temp_data,
