@@ -19,10 +19,11 @@ library(shinydashboard)
 library(tidyverse)
 library(readr)
 
-
+locale(encoding = "UTF-8")
 metadata <- read_csv("main_data.csv") %>%
     select(ID_R, country, design, terrortype, outcome, Fisher, Variance_F, SE_F)
-reports <- read_csv("reports_data.csv") %>%
+reports <- read_csv("reports_data.csv", 
+                    locale = locale(encoding = "WINDOWS-1252")) %>%
     select(ID_R, No., `Author(s)`, Year, Title, Journal)
 estimates <- readRDS("all-estimates.rds")
 
@@ -95,7 +96,7 @@ ui <- fluidPage(
                                        "This review study is based on a dataset of 320 studies conducted between 1985 and 2020 on more than 400,000 respondents from about 30 countries. This web application allows users to ", strong("explore heterogeneity"), "in how people across the world react to different types of terrorism."),
                                      
                                      p("In the panel on the left you can specify your desired settings, which will result in a subsample of the full dataset. You can filter the data based on the (1) country of study, (2) study design, (3) type of terrorism, and/or (4) outcome variables used in the original study. All effect sizes included in your pre-specified subsample and the overall effect size will be plotted in the ", icon("bar-chart-o"), strong("Plot"), " tab. The vertical blue line in this plot displays the average Fisher’s Z correlation coefficient for the relationship between terrorism and public opinion based on your pre-defined settings and using a three-level meta-analytic model (see",a("here",target="_blank",href="https://turtle-gold-8ha4.squarespace.com/s/Godefroidt-Terrorism_and_Attitudes-SIR1.pdf"),
-                                     "for more information on the meta-analytic model).", icon("list-alt"), strong("Data"), " tab prints all primary studies on which the results plot is based. The length of this list gives an indication of remaining research gaps in this field of study."),
+                                       "for more information on the meta-analytic model).", icon("list-alt"), strong("Data"), " tab prints all primary studies on which the results plot is based. The length of this list gives an indication of remaining research gaps in this field of study."),
                                      p("You can download the source code for the Shiny App here and the full Replication Repository accompanying the study here."),
                                      hr(),
                                      p(style="text-align: right", 
@@ -132,10 +133,10 @@ server <- function(input, output) {
         isHereFilter <- unlist(map(1:length(isHere), 
                                    function(x) all(isHere[[x]] == T)))
         isCorrectLength <- unlist(map(1:length(estimates),
-                               function(x) length(estimates[[x]]$input) == length(c(input$region, 
-                                                                                    input$design, 
-                                                                                    input$type, 
-                                                                                    input$outcome))))
+                                      function(x) length(estimates[[x]]$input) == length(c(input$region, 
+                                                                                           input$design, 
+                                                                                           input$type, 
+                                                                                           input$outcome))))
         as.numeric(paste(estimates[isHereFilter & isCorrectLength][[1]]$b))
     })
     
