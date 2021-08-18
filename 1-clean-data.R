@@ -11,7 +11,8 @@
 rm(list=ls())
 
 #set your own directory
-setwd("../Replication/") 
+#setwd("../C:/Users/ameliego/Box Sync/Articles/Article5_MetaAnalysis-ACCEPT/Article5_Papers/Meta-Analysis/4. AJPS/Godefroidt_2021_ReplicationFiles/") 
+getwd()
 
 #get necessary packages
 ipak <- function(pkg){  new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
