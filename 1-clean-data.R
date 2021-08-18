@@ -1,4 +1,13 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
+# PROJECT:    How Terrorism Does (and Does Not) Affect Citizens' Attitudes: 
+#             A Meta-Analysis. 
+# AUTHOR:     AmÃ©lie Godefroidt
+# CONTACT:    amelie.godefroidt@ntnu.no
+# 
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
+# This R file contains the code necessary to clean the data for the Shiny App
 
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
 rm(list=ls())
 
 #set your own directory
@@ -35,7 +44,7 @@ shinydata$country[shinydata$country=="Israel" |
 shinydata$country[shinydata$country=="Australia" |
              shinydata$country=="Austria" |
              shinydata$country=="Belgium" |
-             shinydata$country=="Bosnië" |
+             shinydata$country=="Bosni?" |
              shinydata$country=="Canada" |
              shinydata$country=="Czech Republic" | 
              shinydata$country=="Denmark" |

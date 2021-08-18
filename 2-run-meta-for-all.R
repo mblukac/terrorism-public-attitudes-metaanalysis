@@ -1,3 +1,15 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
+# PROJECT:    How Terrorism Does (and Does Not) Affect Citizens' Attitudes: 
+#             A Meta-Analysis. 
+#             
+# Project and paper by Amélie Godefroidt (amelie.godefroidt@ntnu.no)
+# R code by Martin Lukac (m.b.lukac@gmail.com)
+# 
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
+# This R code contains the code necessary to compute the common effect sizes
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
+
 library(DescTools)
 library(metafor)
 library(readr)

@@ -1,6 +1,17 @@
-# Shiny App for the project "How Terrorism Does (Not) Affect Political Attitudes"
-# Date: 21 May 2021
-# Code by Martin Lukac (m.b.lukac@gmail.com)
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
+# PROJECT:   How Terrorism Does (and Does Not) Affect Citizens' Attitudes: 
+#            A Meta-Analysis. 
+#             
+# AUTHOR:   Project and paper by Amélie Godefroidt (amelie.godefroidt@ntnu.no)
+#           R code by Martin Lukac (m.b.lukac@gmail.com)
+#           
+# DATE:     Shiny App created on 21 May 2021
+#           Last successful replication on 21 August 2021
+# 
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
+# This R code contains the code necessary to build the Shiny App
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
 
 library(shiny)
 library(shinyWidgets)
@@ -25,7 +36,7 @@ ui <- fluidPage(
         # Inputs panel
         sidebarPanel(
             pickerInput("region", 
-                        label = h4("Region of study"),
+                        label = h4("Country of study"),
                         choices = list("United States" = "United States",
                                        "Israel" = "Israel",
                                        "Other: Western" = "Other: Western",
@@ -60,7 +71,7 @@ ui <- fluidPage(
                         options = list(
                             `actions-box` = TRUE), 
                         multiple = TRUE),
-            pickerInput("outcome", label = h4("Output category"),
+            pickerInput("outcome", label = h4("Outcome category"),
                         choices = list("Outgroup Hostility" = "Outgroup Hostility", 
                                        "Conservatism" = "Conservatism", 
                                        "Rally Effects" = "Rally Effects"),
@@ -78,23 +89,18 @@ ui <- fluidPage(
                         tabPanel("About", icon = icon("info-circle"),
                                  br(),
                                  div(class = "about",
-                                     p("This meta-analysis takes stock of the quantitative literature on ", 
-                                       strong("public responses to terrorism"),". 
-                                       The dataset includes 320 studies conducted between 1985 and 2020 on more than 400,000 respondents from over 30 countries. This web application provides access to the data and options to ", 
-                                       strong("explore heterogeneity"), 
-                                       "in how people across the world react to different types of terrorism."),
+                                     p("This is the interactive appendix for the following study on public responses to terrorism:",
+                                       tags$ul(tags$li("Godefroidt, A. (forthcoming)", a("How Terrorism Does (and Does Not) Affect Citizens' Political Attitudes: A Meta-Analysis.", href = "https://www.ameliegodefroidt.com", target = "_blank", rel = "noopener noreferrer"), em("American Journal of Political Science."))),
+                                       p(),
+                                       "This review study is based on a dataset of 320 studies conducted between 1985 and 2020 on more than 400,000 respondents from about 30 countries. This web application allows users to ", strong("explore heterogeneity"), "in how people across the world react to different types of terrorism."),
                                      
-                                     p("In the panel on the left you can specify your desired settings, which will result in a subsample of the full dataset. You can filter the data based on the original method used, type of terrorism (independent variable) and attitudes (dependent variable) studied, and geographical region. All effect sizes included in your pre-specified subsample and the overall effect size will be plotted in the ", icon("bar-chart-o"), strong("Plot"), " tab. This plot displays the average Fisher’s Z correlation coefficient for the relationship between terrorism and public opinion based on your pre-defined settings. The ", icon("list-alt"), strong("Data"), " tab prints all primary studies on which the results plot is based. The length of this list gives an indication of remaining research gaps in this field of study."),
-                                     
-                                     p("This application accompanies the following study: Godefroidt, A. How Terrorism Does (and Does Not) Affect Citizens’ Political Attitudes (revise and resubmitted for publication), 2021."),
-                                     p("You can download the source code for the Shiny App here and the full Replication File accompanying the article here."),
+                                     p("In the panel on the left you can specify your desired settings, which will result in a subsample of the full dataset. You can filter the data based on the (1) country of study, (2) study design, (3) type of terrorism, and/or (4) outcome variables used in the original study. All effect sizes included in your pre-specified subsample and the overall effect size will be plotted in the ", icon("bar-chart-o"), strong("Plot"), " tab. The vertical blue line in this plot displays the average Fisher’s Z correlation coefficient for the relationship between terrorism and public opinion based on your pre-defined settings and using a three-level meta-analytic model (see",a("here",target="_blank",href="https://turtle-gold-8ha4.squarespace.com/s/Godefroidt-Terrorism_and_Attitudes-SIR1.pdf"),
+                                     "for more information on the meta-analytic model).", icon("list-alt"), strong("Data"), " tab prints all primary studies on which the results plot is based. The length of this list gives an indication of remaining research gaps in this field of study."),
+                                     p("You can download the source code for the Shiny App here and the full Replication Repository accompanying the study here."),
                                      hr(),
-                                     p(icon("copyright"), a("Amélie Godefroidt", href = "https://www.ameliegodefroidt.com",
-                                                            target = "_blank", rel = "noopener noreferrer"),
-                                     " & ", a("Martin Lukac", href = "https://mblukac.github.io",
-                                              target = "_blank", rel = "noopener noreferrer"), " 2021")
-                                 )
-                        ),
+                                     p(style="text-align: right", 
+                                       icon("copyright"),  a("Amélie Godefroidt", href = "https://www.ameliegodefroidt.com", target = "_blank", rel = "noopener noreferrer"), " & ", a("Martin Lukac", href = "https://mblukac.github.io", target = "_blank", rel = "noopener noreferrer"), 
+                                       " 2021"))),
                         tabPanel("Data", icon = icon("list-alt"),
                                  DT::dataTableOutput("metadata_dt")
                         ),
@@ -171,7 +177,7 @@ server <- function(input, output) {
                     panel.grid.minor.y = element_blank()
                 ) + ylab("Fisher's Z Correlation Coefficient") +
                 annotate("text", x = 1, y = currentEst(),
-                         label = paste(round(currentEst(), 6)), 
+                         label = paste(round(currentEst(), 4)), 
                          color = "turquoise3", hjust = -0.2)
         } else {
             ggplot(data = data.frame(x = 10, y = 10)) +
