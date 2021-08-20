@@ -19,7 +19,6 @@ library(shinydashboard)
 library(tidyverse)
 library(readr)
 
-locale(encoding = "UTF-8")
 metadata <- read_csv("main_data.csv") %>%
     select(ID_R, country, design, terrortype, outcome, Fisher, Variance_F, SE_F)
 reports <- read_csv("reports_data.csv", 
@@ -103,6 +102,7 @@ ui <- fluidPage(
                                        icon("copyright"),  a("Amélie Godefroidt", href = "https://www.ameliegodefroidt.com", target = "_blank", rel = "noopener noreferrer"), " & ", a("Martin Lukac", href = "https://mblukac.github.io", target = "_blank", rel = "noopener noreferrer"), 
                                        " 2021"))),
                         tabPanel("Data", icon = icon("list-alt"),
+                                 helpText(p(em("Note:"), "All primary studies that meet your predefined criteria are listed below. Perceptive users might note that some key studies are missing from the list. This might be because those studies apply a different unit of analysis, do not contain enough information to calculate a common effect size and its variance, or focus on slightly different dependent and/or independent variables. See Table B.1. in the", a("Supplementary Information", href="https://turtle-gold-8ha4.squarespace.com/s/Godefroidt-Terrorism_and_Attitudes-SIR1.pdf"), "for the full list of inclusion and exclusion rules applied during data collection.")),
                                  DT::dataTableOutput("metadata_dt")
                         ),
                         tabPanel("Plot", icon = icon("bar-chart-o"),
