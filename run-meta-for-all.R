@@ -1,13 +1,9 @@
 library(DescTools)
-library(metafor)
+library(metaSEM)
 library(readr)
 library(tidyverse)
 
-# You'll need to change this to access the source file!
-# or just drop it into the same folder if you are using RStudio Projects
-
 shinydata <- read_csv("main_data.csv")
-
 
 #### Meta-Analysis ------------------------------------------------------------
 # Calculate for all combinations
@@ -36,11 +32,9 @@ for(lst in 1:length(set)){
     if(nrow(temp_data) < 2){
       estimate <- NA
     } else {
-      meta_fast <- rma.mv(y=Fisher, V=Variance_F,
-                          random = ~ 1 | ID_R/ID_ES_Unique, 
-                          data = temp_data,
-                          method = "ML")
-      estimate <- meta_fast$b
+      meta_fast <- meta3(y=Fisher, v=Variance_F, cluster=ID_R,
+                         data = temp_data)
+      estimate <- coef(meta_fast)[1]
     }
     
     result[[i]] <- list(input = temp_vector,
@@ -55,3 +49,11 @@ listmis <- map(1:length(result), function(x) is.na(result[[x]]$b))
 res_clean <- result[!unlist(listmis)]
 
 saveRDS(res_clean, "all-estimates.rds")
+
+
+# OLD rma meta_fast
+# meta_fast <- rma.mv(y=Fisher, V=Variance_F,
+# random = ~ 1 | ID_R/ID_ES_Unique, 
+# data = temp_data,
+# method = "ML")
+# estimate <- meta_fast$b

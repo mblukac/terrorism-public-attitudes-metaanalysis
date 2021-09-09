@@ -6,7 +6,7 @@
 #           R code by Martin Lukac (m.b.lukac@gmail.com)
 #           
 # DATE:     Shiny App created on 21 May 2021
-#           Last successful replication on 05 August 2021
+#           Last successful replication on 10 September 2021
 # 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
 # This R code contains the code necessary to build the Shiny App
@@ -51,11 +51,11 @@ ui <- fluidPage(
             ),
             pickerInput("design", label = h4("Study design"),
                         choices = list("Correlation" = "Correlation", 
-                                       "(Quasi)Experiment" = "(Quasi)Experiment",
-                                       "Longitudinal" = "Longitudinal"),
+                                       "Experiment" = "Experiment",
+                                       "Other" = "Other"),
                         selected = c("Correlation", 
-                                     "(Quasi)Experiment",
-                                     "Longitudinal"),
+                                     "Experiment",
+                                     "Other"),
                         options = list(
                             `actions-box` = TRUE), 
                         multiple = TRUE),
@@ -92,7 +92,7 @@ ui <- fluidPage(
                                      p("This is the interactive appendix for the following study on public responses to terrorism:",
                                        tags$ul(tags$li("Godefroidt, A. (forthcoming).", a("How Terrorism Does (and Does Not) Affect Citizens' Political Attitudes: A Meta-Analysis.", href = "https://www.ameliegodefroidt.com", target = "_blank", rel = "noopener noreferrer"), em("American Journal of Political Science."))),
                                        p(),
-                                       "This review study is based on a dataset of 320 studies conducted between 1985 and 2020 on more than 400,000 respondents from about 30 countries. This web application allows users to ", strong("explore heterogeneity"), "in how people across the world react to different types of terrorism."),
+                                       "This review study is based on a dataset of 241 manuscripts, which together account for 326 unique studies conducted between 1985 and 2020 among more than 400,000 respondents from approximately 30 countries. This web application allows users to ", strong("explore heterogeneity"), "in how people across the world react to different types of terrorism."),
                                      
                                      p("In the panel on the left you can specify your desired settings, which will result in a subsample of the full dataset. You can filter the data based on the (1) country of study, (2) study design, (3) type of terrorism, and/or (4) outcome variables used in the original study. All effect sizes included in your pre-specified subsample and the overall effect size will be plotted in the ", icon("bar-chart-o"), strong("Plot"), " tab. The vertical red line in this plot displays the average Fisher’s Z correlation coefficient for the relationship between terrorism and public opinion based on your predefined settings and using a three-level meta-analytic model (see",a("here",target="_blank",href="https://turtle-gold-8ha4.squarespace.com/s/Godefroidt-Terrorism_and_Attitudes-SIR1.pdf"),
                                        "for more information on the meta-analytic model).", icon("list-alt"), strong("Data"), " tab prints all primary studies on which the results plot is based. The length of this list gives an indication of remaining research gaps in this field of study."),
@@ -172,15 +172,15 @@ server <- function(input, output) {
                     axis.title.y = element_blank(),
                     axis.ticks.y = element_blank(),
                     axis.text.y = element_blank(),
-                    axis.ticks.length.x = unit(0.5, "cm"),
-                    axis.text.x = element_text(size = (15)),
-                    axis.title.x = element_text(size = (18)),
+                    axis.ticks.length.x = unit(0.3, "cm"),
+                    axis.text.x = element_text(size = (14)),
+                    axis.title.x = element_text(size = (17)),
                     panel.grid.major.y = element_blank(),
                     panel.grid.minor.y = element_blank()
                 ) + ylab("Fisher's Z Correlation Coefficient") +
                 annotate("text", x = 1, y = currentEst(),
-                         label = paste(round(currentEst(), 3)), 
-                         color = "#d13b3b", hjust = -0.15, size = 5)
+                         label = paste(round(currentEst(), 2)), 
+                         color = "#d13b3b", hjust = -0.15, size = 4.5)
         } else {
             ggplot(data = data.frame(x = 10, y = 10)) +
                 annotate("text", x = 5, y = 5, 
