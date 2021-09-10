@@ -96,16 +96,18 @@ ui <- fluidPage(
                                      
                                      p("In the panel on the left you can specify your desired settings, which will result in a subsample of the full dataset. You can filter the data based on the (1) country of study, (2) study design, (3) type of terrorism, and/or (4) outcome variables used in the original study. All effect sizes included in your pre-specified subsample and the overall effect size will be plotted in the ", icon("bar-chart-o"), strong("Plot"), " tab. The vertical red line in this plot displays the average Fisher’s Z correlation coefficient for the relationship between terrorism and public opinion based on your predefined settings and using a three-level meta-analytic model (see",a("here",target="_blank",href="https://turtle-gold-8ha4.squarespace.com/s/Godefroidt-Terrorism_and_Attitudes-SIR1.pdf"),
                                        "for more information on the meta-analytic model).", icon("list-alt"), strong("Data"), " tab prints all primary studies on which the results plot is based. The length of this list gives an indication of remaining research gaps in this field of study."),
-                                     p("You can download the source code for the Shiny App", a("here",target="_blank",href="https://github.com/mblukac/terrorism-public-attitudes-metaanalysis"), "and the full Replication Repository accompanying the study here."),
+                                     p("You can download the source code for the Shiny App", a("here",target="_blank",href="https://github.com/mblukac/terrorism-public-attitudes-metaanalysis"), "and the full Replication Repository accompanying the study here. If you have any further questions or comments, please do not hestistate to contact me at",a("amelie.godefroidt@ntnu.no", href = "mailto: amelie.godefroidt@ntnu.no", target = "_blank", rel = "noopener noreferrer"), icon("envelope-open-text")),
                                      hr(),
                                      p(style="text-align: right", 
-                                       icon("copyright"),  a("Amélie Godefroidt", href = "https://www.ameliegodefroidt.com", target = "_blank", rel = "noopener noreferrer"), " & ", a("Martin Lukac", href = "https://mblukac.github.io", target = "_blank", rel = "noopener noreferrer"), 
-                                       " 2021"))),
+                                       icon("copyright"),  a("Amélie Godefroidt", href = "https://www.ameliegodefroidt.com", target = "_blank", rel = "noopener noreferrer"), " & ", a("Martin Lukac", href = "https://mblukac.github.io", target = "_blank", rel = "noopener noreferrer"), " 2021"))),
                         tabPanel("Data", icon = icon("list-alt"),
-                                 helpText(p(em("Note:"), "All primary studies that meet your predefined criteria are listed below. Perceptive users might note that some key studies are missing from this list. This is due to the fact that some studies apply a different unit of analysis, do not contain enough information to calculate a common effect size and/or its variance, or focus on different dependent and/or independent variables. See Table B.1. in the", a("Supplementary Information", href="https://turtle-gold-8ha4.squarespace.com/s/Godefroidt-Terrorism_and_Attitudes-SIR1.pdf"), "for the full list of inclusion and exclusion rules applied during data collection.")),
+                                 helpText(p(em("Note:"), "All primary studies that meet your predefined criteria are listed below. Perceptive users might note that some key studies are missing from this list. This is due to the fact that some studies apply a different unit of analysis, do not contain enough information to calculate a common effect size and/or its variance, or focus on different dependent and/or independent variables. See Table B.1. in the", a("Supplementary Information", href="https://turtle-gold-8ha4.squarespace.com/s/Godefroidt-Terrorism_and_Attitudes-SIR1.pdf"), "for the full list of inclusion and exclusion rules applied during data collection."),
+                                          style = "font-size:12px"),
                                  DT::dataTableOutput("metadata_dt")
                         ),
                         tabPanel("Plot", icon = icon("bar-chart-o"),
+                                 helpText(p(em("Note:"),"The graph needs a few seconds to load. In addition, the overall effect sizes reported in this graph might slightly differ from the ones reported in Tables C.1-3 in the Supplementary Information (SI) because we subsetted the data to calculate all estimates for the app, but used moderation effects on the entire dataset (for each outcome measure) in the SI."), 
+                                          style = "font-size:12px"),
                                  plotOutput("metaplot"))
             )
         )
@@ -144,7 +146,8 @@ server <- function(input, output) {
     output$metadata_dt <- DT::renderDataTable({
         reports %>% 
             filter(reports$ID_R %in% currentData()$ID_R) %>%
-            select(-ID_R, -No.)
+            select(-ID_R, -No.) %>%
+            arrange(`Author(s)`)
     })
     
     # Render a plot of effects
@@ -179,7 +182,7 @@ server <- function(input, output) {
                     panel.grid.minor.y = element_blank()
                 ) + ylab("Fisher's Z Correlation Coefficient") +
                 annotate("text", x = 1, y = currentEst(),
-                         label = paste(round(currentEst(), 2)), 
+                         label = paste(round(currentEst(), 3)), 
                          color = "#d13b3b", hjust = -0.15, size = 4.5)
         } else {
             ggplot(data = data.frame(x = 10, y = 10)) +
