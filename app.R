@@ -13,12 +13,14 @@
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
 
-library(shiny)
-library(shinyWidgets)
-library(shinydashboard)
-library(tidyverse)
-library(readr)
+# Get necessary packages
+ipak <- function(pkg){  new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
+if(length(new.pkg)) install.packages(new.pkg, dependencies=TRUE)
+sapply(pkg, require, character.only=TRUE) }
+packages <- c("shiny", "shinyWidgets", "shinydashboard", "tidyverse", "readr") 
+ipak(packages)
 
+# Get necessary data
 metadata <- read_csv("main_data.csv") %>%
     select(ID_R, country, design, terrortype, outcome, Fisher, Variance_F, SE_F)
 reports <- read_csv("reports_data.csv", 
@@ -26,6 +28,7 @@ reports <- read_csv("reports_data.csv",
     select(ID_R, No., `Author(s)`, Year, Title, Journal)
 estimates <- readRDS("all-estimates.rds")
 
+# Build the app
 ui <- fluidPage(
     
     
@@ -150,8 +153,7 @@ server <- function(input, output) {
             arrange(`Author(s)`)
     })
     
-    # Render a plot of effects
-    
+    # Render a plot of overall effects
     output$metaplot <- renderPlot({
         
         if(nrow(currentData()) > 2) {
@@ -163,7 +165,9 @@ server <- function(input, output) {
                 ggplot(aes(x = id, y = Fisher)) +
                 geom_hline(yintercept = 0,
                            color = "black") +
-                geom_linerange(aes(x = id, ymin = Fisher_lower, ymax = Fisher_upper),
+                geom_linerange(aes(x = id, 
+                                   ymin = Fisher_lower, 
+                                   ymax = Fisher_upper),
                                color = "grey80", alpha = 0.2) +
                 geom_point(size = 0.7) +
                 geom_hline(yintercept = currentEst(),
