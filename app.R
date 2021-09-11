@@ -14,11 +14,10 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # 
 
 # Get necessary packages
-ipak <- function(pkg){  new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
-if(length(new.pkg)) install.packages(new.pkg, dependencies=TRUE)
-sapply(pkg, require, character.only=TRUE) }
-packages <- c("shiny", "shinyWidgets", "shinydashboard", "tidyverse", "readr") 
-ipak(packages)
+library(shiny)
+library(shinyWidgets)
+library(shinydashboard)
+library(tidyverse)
 
 # Get necessary data
 metadata <- read_csv("main_data.csv") %>%
