@@ -2,7 +2,7 @@
 # PROJECT:   How Terrorism Does (and Does Not) Affect Citizens' Attitudes: 
 #            A Meta-Analysis. 
 #             
-# AUTHOR:   Project and paper by Amélie Godefroidt (amelie.godefroidt@ntnu.no)
+# AUTHOR:   Project and paper by Amelie Godefroidt (amelie.godefroidt@ntnu.no)
 #           R code by Martin Lukac (m.b.lukac@gmail.com)
 #           
 # DATE:     Shiny App created on 21 May 2021
