@@ -92,7 +92,7 @@ ui <- fluidPage(
                                  br(),
                                  div(class = "about",
                                      p("This is the interactive appendix for the following study on public responses to terrorism:",
-                                       tags$ul(tags$li("Godefroidt, A. (forthcoming).", a("How Terrorism Does (and Does Not) Affect Citizens' Political Attitudes: A Meta-Analysis.", href = "https://www.ameliegodefroidt.com", target = "_blank", rel = "noopener noreferrer"), em("American Journal of Political Science."))),
+                                       tags$ul(tags$li("Godefroidt, A. (forthcoming).", a("How Terrorism Does (and Does Not) Affect Citizens' Political Attitudes: A Meta-Analysis.", href = "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12692", target = "_blank", rel = "noopener noreferrer"), em("American Journal of Political Science."))),
                                        p(),
                                        "This review study is based on a dataset of 241 manuscripts, which together account for 326 unique studies conducted between 1985 and 2020 among more than 400,000 respondents from approximately 30 countries. This web application allows users to ", strong("explore heterogeneity"), "in how people across the world react to different types of terrorism."),
                                      
